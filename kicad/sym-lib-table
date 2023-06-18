@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "gecko5education")(type "KiCad")(uri "${KIPRJMOD}/gecko5education.kicad_sym")(options "")(descr ""))
+)
