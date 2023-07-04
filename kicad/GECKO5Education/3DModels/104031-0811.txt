@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-06062020-057370";"";
+"REFERENCE";"104031-0811";"";
+"TraceParts.PartTitle";"microSD 1.10mm SMT push-pull memory card";"";
+"TraceParts.InstanceId";"90-06062020-0573702N3XX9WWY2MK673V115V3T3RA";"";
+"DESIGN";"microSD 1.10mm SMT push-pull memory card";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"MOLEX:90-06062020-057370";"";
