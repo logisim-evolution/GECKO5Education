@@ -14,3 +14,10 @@ This is a small (60.6x100 mm) standalone FPGA board
 for education, research and general purpose. It's open source and 
 open hardware. It continues my line of educational boards used in the
 past for teaching and research projects.
+
+# Production
+The prototypes for these boards were produced and mounted by [Eurocircuits](https://www.eurocircuits.com/).
+
+#Financement
+The prototypes for these board (V1.0 and V1.1) were financed by the [computer architecture lab](https://www.epfl.ch/labs/lap/) of [EPFL](https://www.epfl.ch). Version V1.2 and the CPU-addon was financed by the {microlab](https://www.bfh.ch/ti/de/forschung/forschungsbereiche/microlab/) Prof. Dr. Theo Kluter.
+
