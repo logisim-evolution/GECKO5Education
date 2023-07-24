@@ -19,5 +19,5 @@ past for teaching and research projects.
 The prototypes for these boards were produced and mounted by [Eurocircuits](https://www.eurocircuits.com/).
 
 # Financement
-The prototypes for these board (V1.0 and V1.1) were financed by the [computer architecture lab](https://www.epfl.ch/labs/lap/) of [EPFL](https://www.epfl.ch). Version V1.2 and the CPU-addon was financed by the [HuCE-microlab](https://www.bfh.ch/ti/de/forschung/forschungsbereiche/microlab/) Prof. Dr. Theo Kluter.
+The prototypes for these board (V1.0 and V1.1) were financed by the [computer architecture lab](https://www.epfl.ch/labs/lap/) of [EPFL](https://www.epfl.ch). Version V1.2 and the CPU-addon was financed by the [HuCE-microlab](https://www.bfh.ch/ti/de/forschung/forschungsbereiche/microlab/) of [BFH](https://www.bfh.ch).
 
