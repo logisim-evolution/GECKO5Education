@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "gecko4education")(type "KiCad")(uri "${KIPRJMOD}/gecko4education.pretty")(options "")(descr ""))
+  (lib (name "gecko5")(type "KiCad")(uri "${KIPRJMOD}/gecko5.pretty")(options "")(descr ""))
 )
