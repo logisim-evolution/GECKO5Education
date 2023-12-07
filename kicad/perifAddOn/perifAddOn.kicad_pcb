@@ -6514,6 +6514,9 @@
   (gr_text "*" (at 123.95 82.1) (layer "F.SilkS") (tstamp b02ca981-de73-4f37-ad66-ad1209aa80e1)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
+  (gr_text "Version 1.0\n" (at 108.9 91.45) (layer "F.SilkS") (tstamp d692b9ef-11e0-49a6-b795-a68eb30b1fc7)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
   (via (at 117.25 60.25) (size 0.45) (drill 0.1) (layers "F.Cu" "B.Cu") (remove_unused_layers) (keep_end_layers) (free) (zone_layer_connections) (net 1) (tstamp 010f6fff-0c0b-42ce-a268-b95ae9fb6e00))
   (via (at 117.95 60.25) (size 0.45) (drill 0.1) (layers "F.Cu" "B.Cu") (remove_unused_layers) (keep_end_layers) (free) (zone_layer_connections) (net 1) (tstamp 27cd91c0-9375-4074-9e9e-acb88f2c7d04))
