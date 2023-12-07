@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "addOnTemplate")(type "KiCad")(uri "${KIPRJMOD}/addOnTemplate.kicad_sym")(options "")(descr ""))
+  (lib (name "mseAddOn")(type "KiCad")(uri "${KIPRJMOD}/mseAddOn.kicad_sym")(options "")(descr ""))
+)
