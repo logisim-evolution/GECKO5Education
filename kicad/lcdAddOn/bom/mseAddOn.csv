@@ -1,8 +1,0 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"C3";"C_0402_1005Metric";1;"100nF";;;
-2;"U1";"SSOP20_MC_MCH";1;"AR1021-I/SS";;;
-3;"R5";"R_0402_1005Metric";1;"20k";;;
-4;"C2,C1";"C_0402_1005Metric";2;"10pF";;;
-5;"J2";"CONN_62684-402100ALF_AMP";1;"62684-402100ALF";;;
-6;"R4,R3,R2,R1";"R_0402_1005Metric";4;"2E";;;
-7;"J1";"SAMTEC_QTE-020-01-X-D-A";1;"QTE-020-01-F-D-A";;;

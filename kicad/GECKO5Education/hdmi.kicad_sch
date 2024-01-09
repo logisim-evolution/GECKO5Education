@@ -5488,7 +5488,7 @@
     (property "Reference" "U17" (at 95.25 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "MAX11666AUBV" (at 95.25 86.36 0)
+    (property "Value" "MAX11102AUB+T" (at 95.25 86.36 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "gecko4education:SOP50P490X110-11N" (at 95.25 109.22 0)
