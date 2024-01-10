@@ -3114,9 +3114,6 @@
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/1b790ed2-2ed7-44b0-8848-0151372cb9f5"
           (reference "D1") (unit 1)
         )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "D123") (unit 1)
-        )
       )
     )
   )
@@ -3173,9 +3170,6 @@
       (project "gecko5education"
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/1b790ed2-2ed7-44b0-8848-0151372cb9f5"
           (reference "D124") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "D123") (unit 1)
         )
       )
     )
@@ -3604,9 +3598,6 @@
     (pin "Y3" (uuid a5ec8ee2-f981-4395-8824-74d16c635221))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
-          (reference "U6") (unit 7)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/1b790ed2-2ed7-44b0-8848-0151372cb9f5"
           (reference "U6") (unit 7)
         )

@@ -2226,7 +2226,7 @@
   (symbol (lib_id "Device:R") (at 248.92 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 11a76f00-85a8-4b38-9a01-bb7bb0e1c38f)
-    (property "Reference" "R1" (at 246.38 134.62 90)
+    (property "Reference" "R36" (at 246.38 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 251.46 134.62 90)
@@ -2242,12 +2242,6 @@
     (pin "2" (uuid 222335d5-5c74-4947-819b-754e921da28e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R36") (unit 1)
         )
@@ -2411,7 +2405,7 @@
   (symbol (lib_id "Device:R") (at 135.89 133.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 271a6f8e-4535-4ed3-ad60-d1c07c62989e)
-    (property "Reference" "R1" (at 134.62 138.43 90)
+    (property "Reference" "R47" (at 134.62 138.43 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 134.62 128.27 90)
@@ -2427,12 +2421,6 @@
     (pin "2" (uuid b786c099-1315-4bdc-af29-2ffd8ad40cd6))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R47") (unit 1)
         )
@@ -2443,7 +2431,7 @@
   (symbol (lib_id "Device:R") (at 158.75 96.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b18a8b5-15b5-4ba3-b9ab-7a747a7f1609)
-    (property "Reference" "R1" (at 153.67 95.25 90)
+    (property "Reference" "R43" (at 153.67 95.25 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 95.25 90)
@@ -2459,12 +2447,6 @@
     (pin "2" (uuid 21db5bca-a90f-427d-b6b3-08ff5f5a3f77))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R43") (unit 1)
         )
@@ -2475,7 +2457,7 @@
   (symbol (lib_id "Device:R") (at 158.75 91.44 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d55dc73-c898-4d9f-ac69-a75c37b643d4)
-    (property "Reference" "R1" (at 153.67 90.17 90)
+    (property "Reference" "R41" (at 153.67 90.17 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 90.17 90)
@@ -2491,12 +2473,6 @@
     (pin "2" (uuid e6d2bff1-1823-4434-91fe-afe12dac7f00))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R41") (unit 1)
         )
@@ -2507,7 +2483,7 @@
   (symbol (lib_id "Device:R") (at 158.75 86.36 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 442326aa-d9aa-4706-8c1a-10f83412997c)
-    (property "Reference" "R1" (at 153.67 85.09 90)
+    (property "Reference" "R39" (at 153.67 85.09 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 85.09 90)
@@ -2523,12 +2499,6 @@
     (pin "2" (uuid 0a4e4b60-c612-42bd-b97f-98f30cf85254))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R39") (unit 1)
         )
@@ -2539,7 +2509,7 @@
   (symbol (lib_id "Device:R") (at 173.99 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48b463d6-efe6-4e19-9ca5-48a76f16df21)
-    (property "Reference" "R1" (at 171.45 134.62 90)
+    (property "Reference" "R32" (at 171.45 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 176.53 134.62 90)
@@ -2555,12 +2525,6 @@
     (pin "2" (uuid 7b63b677-8dd4-4a55-8c1b-5f3503fe96b7))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R32") (unit 1)
         )
@@ -2571,7 +2535,7 @@
   (symbol (lib_id "Device:R") (at 158.75 101.6 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e1f1d53-3af4-440c-bed1-81972ed2f6b0)
-    (property "Reference" "R1" (at 153.67 100.33 90)
+    (property "Reference" "R44" (at 153.67 100.33 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 100.33 90)
@@ -2587,12 +2551,6 @@
     (pin "2" (uuid 4676e41f-3804-4643-841e-16385975682d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R44") (unit 1)
         )
@@ -2630,7 +2588,7 @@
   (symbol (lib_id "Device:R") (at 158.75 83.82 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 61b2c23b-c098-498a-ae57-2bcf9dd92673)
-    (property "Reference" "R1" (at 153.67 82.55 90)
+    (property "Reference" "R38" (at 153.67 82.55 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 82.55 90)
@@ -2646,12 +2604,6 @@
     (pin "2" (uuid 77d6548f-4eca-4e6a-bf2b-8ae7c3cccc61))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R38") (unit 1)
         )
@@ -2710,7 +2662,7 @@
   (symbol (lib_id "Device:R") (at 138.43 133.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71ef596f-2535-4e98-951f-ae5c73dfb240)
-    (property "Reference" "R1" (at 137.16 138.43 90)
+    (property "Reference" "R46" (at 137.16 138.43 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 137.16 128.27 90)
@@ -2726,12 +2678,6 @@
     (pin "2" (uuid 8eb91137-4b58-4e84-95b2-e695261adb5f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R46") (unit 1)
         )
@@ -2794,7 +2740,7 @@
   (symbol (lib_id "Device:C") (at 161.29 128.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 80b746c7-debd-4df9-8341-87fc7413ec47)
-    (property "Reference" "C15" (at 165.1 127.635 0)
+    (property "Reference" "C21" (at 165.1 127.635 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 165.1 130.175 0)
@@ -2810,12 +2756,6 @@
     (pin "2" (uuid fbf7a8a1-dca0-4080-a9a7-23dd9103f3f8))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/e8cfb843-efab-422d-aa9c-640a59ac0396"
-          (reference "C15") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/0a7d71b4-2ae9-4114-b319-914176f8c7ac"
-          (reference "C19") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "C21") (unit 1)
         )
@@ -2908,7 +2848,7 @@
   (symbol (lib_id "Device:R") (at 212.09 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 867c8bf0-7dfa-4304-860c-8b71b141f19f)
-    (property "Reference" "R1" (at 209.55 134.62 90)
+    (property "Reference" "R34" (at 209.55 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 214.63 134.62 90)
@@ -2924,12 +2864,6 @@
     (pin "2" (uuid 1b8353ee-72a7-4532-afcc-34167c1bb042))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R34") (unit 1)
         )
@@ -2965,7 +2899,7 @@
   (symbol (lib_id "Device:R") (at 158.75 81.28 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8785105c-f707-4010-b7a6-d424dafe464e)
-    (property "Reference" "R1" (at 153.67 80.01 90)
+    (property "Reference" "R37" (at 153.67 80.01 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 80.01 90)
@@ -2981,12 +2915,6 @@
     (pin "2" (uuid 3791ec43-66ce-4312-b3c1-ad0afa9d6c1b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R37") (unit 1)
         )
@@ -2997,7 +2925,7 @@
   (symbol (lib_id "Device:R") (at 158.75 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 89b3fee9-3c7f-4698-913f-81dee922994a)
-    (property "Reference" "R1" (at 153.67 92.71 90)
+    (property "Reference" "R42" (at 153.67 92.71 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 92.71 90)
@@ -3013,12 +2941,6 @@
     (pin "2" (uuid 2e24e9e7-6f2c-4fbe-9844-72f10d4c4d08))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R42") (unit 1)
         )
@@ -3092,7 +3014,7 @@
   (symbol (lib_id "Device:R") (at 193.04 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a276f513-1096-4dee-bbcf-9bc011f82977)
-    (property "Reference" "R1" (at 190.5 134.62 90)
+    (property "Reference" "R33" (at 190.5 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 195.58 134.62 90)
@@ -3108,12 +3030,6 @@
     (pin "2" (uuid 1303abd4-df66-43c9-aad5-22679bff17d5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R33") (unit 1)
         )
@@ -3124,7 +3040,7 @@
   (symbol (lib_id "Device:R") (at 229.87 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid adcb6ef4-bc05-4d8c-872f-f194c77cc8fb)
-    (property "Reference" "R1" (at 227.33 134.62 90)
+    (property "Reference" "R35" (at 227.33 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 232.41 134.62 90)
@@ -3140,12 +3056,6 @@
     (pin "2" (uuid 0c12e926-92e2-475e-b29b-c623a49420dd))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R35") (unit 1)
         )
@@ -3156,7 +3066,7 @@
   (symbol (lib_id "Device:R") (at 140.97 133.35 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc1d3f88-2f8a-44c1-920a-535faaa8e77f)
-    (property "Reference" "R1" (at 139.7 138.43 90)
+    (property "Reference" "R45" (at 139.7 138.43 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 139.7 128.27 90)
@@ -3172,12 +3082,6 @@
     (pin "2" (uuid 3a4ce873-872c-47ae-b74d-f41daeb228a2))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R45") (unit 1)
         )
@@ -3188,7 +3092,7 @@
   (symbol (lib_id "Device:R") (at 158.75 88.9 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc41f52c-9998-498e-ba58-0b9b7104c8d7)
-    (property "Reference" "R1" (at 153.67 87.63 90)
+    (property "Reference" "R40" (at 153.67 87.63 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "130E" (at 163.83 87.63 90)
@@ -3204,12 +3108,6 @@
     (pin "2" (uuid e07e03bd-f9b4-4bc2-90d8-d21069a3af82))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
           (reference "R40") (unit 1)
         )
