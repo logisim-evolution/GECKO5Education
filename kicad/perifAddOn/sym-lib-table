@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "addOnTemplate")(type "KiCad")(uri "${KIPRJMOD}/addOnTemplate.kicad_sym")(options "")(descr ""))
+  (lib (name "cpuAddOn")(type "KiCad")(uri "/home/theo/git/GECKO5Education/kicad/cpuAddOn/cpuAddOn.kicad_sym")(options "")(descr ""))
+)

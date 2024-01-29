@@ -9189,7 +9189,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 034740a6-87aa-4387-889c-50f05aeddd03)
-    (property "Reference" "D2" (at 148.59 191.77 0)
+    (property "Reference" "D83" (at 148.59 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 191.77 0)
@@ -9207,9 +9207,6 @@
     (pin "4" (uuid 62434c49-080b-446a-b362-adf845ad972c))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D83") (unit 1)
         )
@@ -9245,7 +9242,7 @@
   (symbol (lib_id "Device:R") (at 35.56 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03c5f5bb-73d9-4a32-8f44-8388a5601ecd)
-    (property "Reference" "R1" (at 33.02 38.1 90)
+    (property "Reference" "R48" (at 33.02 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 38.1 38.1 90)
@@ -9261,15 +9258,6 @@
     (pin "2" (uuid 6a6b4909-c491-4573-b2d1-8f490549aa50))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R48") (unit 1)
         )
@@ -9280,7 +9268,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0484c8db-f37c-49b1-85ee-21b80b951c31)
-    (property "Reference" "D2" (at 162.56 77.47 0)
+    (property "Reference" "D24" (at 162.56 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 77.47 0)
@@ -9298,9 +9286,6 @@
     (pin "4" (uuid 45e4de0c-8883-4399-a55c-87d153514faa))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D24") (unit 1)
         )
@@ -9311,7 +9296,7 @@
   (symbol (lib_id "Device:R") (at 193.04 224.79 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04cc158f-279c-49d1-bd95-46a23a880e90)
-    (property "Reference" "R1" (at 187.96 223.52 90)
+    (property "Reference" "R86" (at 187.96 223.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 223.52 90)
@@ -9327,15 +9312,6 @@
     (pin "2" (uuid 9905ffbe-29b9-45a7-b562-4356ea64be75))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R86") (unit 1)
         )
@@ -9346,7 +9322,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04e8ec7b-ea78-493a-95cb-233e3cf496cf)
-    (property "Reference" "D2" (at 50.8 168.91 0)
+    (property "Reference" "D64" (at 50.8 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 168.91 0)
@@ -9364,9 +9340,6 @@
     (pin "4" (uuid 018ee0e6-b388-4370-aee6-9bf47b21f48e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D64") (unit 1)
         )
@@ -9377,7 +9350,7 @@
   (symbol (lib_id "Device:R") (at 312.42 64.77 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0778310b-43a0-437e-98bf-a73bb5922cc6)
-    (property "Reference" "R1" (at 311.15 69.85 90)
+    (property "Reference" "R61" (at 311.15 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 311.15 59.69 90)
@@ -9393,15 +9366,6 @@
     (pin "2" (uuid b69d7679-fc8e-4508-84e3-5ca3f1f62e28))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R61") (unit 1)
         )
@@ -9412,7 +9376,7 @@
   (symbol (lib_id "Device:R") (at 193.04 107.95 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07c2525c-438d-49bd-acd1-bc5acb0dd74b)
-    (property "Reference" "R1" (at 187.96 106.68 90)
+    (property "Reference" "R70" (at 187.96 106.68 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 106.68 90)
@@ -9428,15 +9392,6 @@
     (pin "2" (uuid 603fcce0-00d9-4517-ba66-1bf07246b608))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R70") (unit 1)
         )
@@ -9447,7 +9402,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08566d42-4f91-4ca8-8e79-e5f033c198af)
-    (property "Reference" "D2" (at 78.74 54.61 0)
+    (property "Reference" "D6" (at 78.74 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 54.61 0)
@@ -9465,9 +9420,6 @@
     (pin "4" (uuid 5f933d34-bdd8-4df5-94b7-c3bcc931d0dd))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D6") (unit 1)
         )
@@ -9478,7 +9430,7 @@
   (symbol (lib_id "Device:R") (at 193.04 156.21 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0867953c-e517-4a2e-9cbf-974a72d63d90)
-    (property "Reference" "R1" (at 187.96 154.94 90)
+    (property "Reference" "R77" (at 187.96 154.94 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 154.94 90)
@@ -9494,15 +9446,6 @@
     (pin "2" (uuid db7959db-23d0-421b-a2d7-c991eabd582f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R77") (unit 1)
         )
@@ -9513,7 +9456,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09077ba0-3750-4a32-9eb9-f61691207e0b)
-    (property "Reference" "D2" (at 22.86 123.19 0)
+    (property "Reference" "D38" (at 22.86 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 123.19 0)
@@ -9531,9 +9474,6 @@
     (pin "4" (uuid c9d55f1a-1599-44eb-a54b-51200bcaae24))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D38") (unit 1)
         )
@@ -9544,7 +9484,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a313556-431f-4b62-af2d-0e43684cce77)
-    (property "Reference" "D2" (at 148.59 54.61 0)
+    (property "Reference" "D11" (at 148.59 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 54.61 0)
@@ -9562,9 +9502,6 @@
     (pin "4" (uuid d882ad4f-f70e-4573-9034-a7d8fe7bdc3a))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D11") (unit 1)
         )
@@ -9575,7 +9512,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0acd22f9-ab71-428d-ae3a-6351711bb6f4)
-    (property "Reference" "D2" (at 106.68 168.91 0)
+    (property "Reference" "D68" (at 106.68 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 168.91 0)
@@ -9593,9 +9530,6 @@
     (pin "4" (uuid fde10fc8-2f27-4052-9682-5e6bc44ed8aa))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D68") (unit 1)
         )
@@ -9606,7 +9540,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0af1b371-7e43-4d94-8106-5052024aaf86)
-    (property "Reference" "D2" (at 92.71 100.33 0)
+    (property "Reference" "D31" (at 92.71 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 100.33 0)
@@ -9624,9 +9558,6 @@
     (pin "4" (uuid 2a495217-4b2f-40ba-a969-12452c71bde9))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D31") (unit 1)
         )
@@ -9662,7 +9593,7 @@
   (symbol (lib_id "power:+3.3V") (at 331.47 57.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0c89eb19-897e-4525-a0eb-9ce04eedf6da)
-    (property "Reference" "#PWR058" (at 331.47 60.96 0)
+    (property "Reference" "#PWR073" (at 331.47 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 331.47 53.34 0)
@@ -9677,9 +9608,6 @@
     (pin "1" (uuid aaa79797-d3b8-4df6-b152-8c886e5e680e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "#PWR058") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "#PWR073") (unit 1)
         )
@@ -9690,7 +9618,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0dabe3ba-91d7-4b05-a550-b45ff7b5daa5)
-    (property "Reference" "D2" (at 120.65 191.77 0)
+    (property "Reference" "D81" (at 120.65 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 191.77 0)
@@ -9708,9 +9636,6 @@
     (pin "4" (uuid c9b81696-7332-4d8b-b81f-b15f64f3c8fa))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D81") (unit 1)
         )
@@ -9721,7 +9646,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0ea5b7bc-6261-4c0a-9fd9-e519459969d9)
-    (property "Reference" "D2" (at 50.8 77.47 0)
+    (property "Reference" "D16" (at 50.8 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 77.47 0)
@@ -9739,9 +9664,6 @@
     (pin "4" (uuid 2e1423c8-d8ea-4351-a129-19ab1df6d4f6))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D16") (unit 1)
         )
@@ -9777,7 +9699,7 @@
   (symbol (lib_id "Device:R") (at 193.04 87.63 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1203cfd0-e8a4-426a-9392-6821ddc2b0b6)
-    (property "Reference" "R1" (at 187.96 86.36 90)
+    (property "Reference" "R68" (at 187.96 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 86.36 90)
@@ -9793,15 +9715,6 @@
     (pin "2" (uuid ab2e1349-dbee-40f9-a2ed-ec998ccaf39c))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R68") (unit 1)
         )
@@ -9812,7 +9725,7 @@
   (symbol (lib_id "Device:R") (at 193.04 67.31 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 125bc492-7d76-4c73-8c66-dab1554f623f)
-    (property "Reference" "R1" (at 187.96 66.04 90)
+    (property "Reference" "R66" (at 187.96 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 66.04 90)
@@ -9828,15 +9741,6 @@
     (pin "2" (uuid ab3ba742-d84e-461d-8e7b-f2940320a43f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R66") (unit 1)
         )
@@ -9847,7 +9751,7 @@
   (symbol (lib_id "Device:R") (at 119.38 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1836ef24-a64f-4019-8a8a-b446b95838b1)
-    (property "Reference" "R1" (at 116.84 38.1 90)
+    (property "Reference" "R54" (at 116.84 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 121.92 38.1 90)
@@ -9863,15 +9767,6 @@
     (pin "2" (uuid 6ed33a53-2db4-4db8-8484-8aa06ecfae26))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R54") (unit 1)
         )
@@ -9882,7 +9777,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 72.39 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 18e09070-05fd-4524-9354-33ae4aec6ef3)
-    (property "Reference" "Q1" (at 67.31 43.815 0)
+    (property "Reference" "Q9" (at 67.31 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 67.31 46.355 0)
@@ -9899,9 +9794,6 @@
     (pin "3" (uuid 2f93dd18-01e2-4acb-984a-236a2e571442))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q9") (unit 1)
         )
@@ -9912,7 +9804,7 @@
   (symbol (lib_id "74xx_IEEE:74154") (at 331.47 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19328670-9cdc-4262-8097-1980d1496956)
-    (property "Reference" "U4" (at 332.74 115.57 0)
+    (property "Reference" "U5" (at 332.74 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "74HC154BQ,118" (at 332.74 118.11 0)
@@ -9950,9 +9842,6 @@
     (pin "9" (uuid 0ed7f60d-f003-4b95-87c5-22dfd51f04e2))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "U4") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "U5") (unit 1)
         )
@@ -9963,7 +9852,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19d4e542-9754-4297-b44c-bdd83f1c33fd)
-    (property "Reference" "D2" (at 92.71 237.49 0)
+    (property "Reference" "D103" (at 92.71 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 237.49 0)
@@ -9981,9 +9870,6 @@
     (pin "4" (uuid cb1b4046-d7ec-48a1-ab18-78a745d7c2b8))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D103") (unit 1)
         )
@@ -9994,7 +9880,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1e28c89c-18f5-4d66-8017-fc31714df586)
-    (property "Reference" "D2" (at 64.77 77.47 0)
+    (property "Reference" "D17" (at 64.77 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 77.47 0)
@@ -10012,9 +9898,6 @@
     (pin "4" (uuid 59ff5c82-a959-408a-b6f6-becdc37ba0c0))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D17") (unit 1)
         )
@@ -10025,7 +9908,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20bc9493-9d67-4f94-928c-64ac3a14c78e)
-    (property "Reference" "D2" (at 134.62 100.33 0)
+    (property "Reference" "D34" (at 134.62 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 100.33 0)
@@ -10043,9 +9926,6 @@
     (pin "4" (uuid 40bd5191-2ebc-49d1-a99a-2608f91802c7))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D34") (unit 1)
         )
@@ -10056,7 +9936,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 215dfce7-1139-4ac2-8e62-8e71066c012d)
-    (property "Reference" "D2" (at 148.59 237.49 0)
+    (property "Reference" "D107" (at 148.59 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 237.49 0)
@@ -10074,9 +9954,6 @@
     (pin "4" (uuid 04b5c2a2-4457-424a-8d25-4a863859c99d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D107") (unit 1)
         )
@@ -10087,7 +9964,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23843997-2bb3-4e0b-9420-a50477c61947)
-    (property "Reference" "D2" (at 148.59 260.35 0)
+    (property "Reference" "D119" (at 148.59 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 260.35 0)
@@ -10105,9 +9982,6 @@
     (pin "4" (uuid 17b6d5d8-cecd-47eb-87a2-74bdffa62546))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D119") (unit 1)
         )
@@ -10118,7 +9992,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 58.42 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23ad39d8-5f90-49ac-bee8-86a237f32fc2)
-    (property "Reference" "Q1" (at 53.34 43.815 0)
+    (property "Reference" "Q8" (at 53.34 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 53.34 46.355 0)
@@ -10135,9 +10009,6 @@
     (pin "3" (uuid 18573083-1ed0-4bc5-b441-3304f3cd4747))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q8") (unit 1)
         )
@@ -10148,7 +10019,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24535248-dae5-488e-be48-32ae9bb96abe)
-    (property "Reference" "D2" (at 106.68 191.77 0)
+    (property "Reference" "D80" (at 106.68 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 191.77 0)
@@ -10166,9 +10037,6 @@
     (pin "4" (uuid 4f262765-e465-4b65-a387-1ffd376d34d1))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D80") (unit 1)
         )
@@ -10179,7 +10047,7 @@
   (symbol (lib_id "Device:R") (at 91.44 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24f1766d-be58-41ca-beeb-ae43bf374204)
-    (property "Reference" "R1" (at 88.9 38.1 90)
+    (property "Reference" "R52" (at 88.9 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 93.98 38.1 90)
@@ -10195,15 +10063,6 @@
     (pin "2" (uuid 9d680edd-56b5-489e-87ea-a8923e0e87e4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R52") (unit 1)
         )
@@ -10214,7 +10073,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 25299f86-0687-4f6f-adcf-ed6babb47214)
-    (property "Reference" "D2" (at 134.62 168.91 0)
+    (property "Reference" "D70" (at 134.62 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 168.91 0)
@@ -10232,9 +10091,6 @@
     (pin "4" (uuid dbcf413f-97f9-4db8-bae9-60e57aa7b414))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D70") (unit 1)
         )
@@ -10245,7 +10101,7 @@
   (symbol (lib_id "Device:R") (at 193.04 201.93 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 269f7ea0-84b0-4abf-a8e8-6df80a72e614)
-    (property "Reference" "R1" (at 187.96 200.66 90)
+    (property "Reference" "R83" (at 187.96 200.66 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 200.66 90)
@@ -10261,15 +10117,6 @@
     (pin "2" (uuid 6df7b25a-64c5-405d-9a38-985703e8b2cd))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R83") (unit 1)
         )
@@ -10280,7 +10127,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 29f31fb1-d8d9-4b4d-8efc-d0786a0e5703)
-    (property "Reference" "D2" (at 176.53 146.05 0)
+    (property "Reference" "D61" (at 176.53 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 146.05 0)
@@ -10298,9 +10145,6 @@
     (pin "4" (uuid 462bac2a-376a-4fed-b09f-9ab68d405dee))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D61") (unit 1)
         )
@@ -10311,7 +10155,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2bf3aaf2-5cef-4a33-b3e7-6bf8ffbffade)
-    (property "Reference" "D2" (at 36.83 146.05 0)
+    (property "Reference" "D51" (at 36.83 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 146.05 0)
@@ -10329,9 +10173,6 @@
     (pin "4" (uuid c99d07e9-ebd4-408d-98cd-49d03942d304))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D51") (unit 1)
         )
@@ -10342,7 +10183,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c827b52-ad39-4eb0-a6d3-b4381e1e58a5)
-    (property "Reference" "D2" (at 162.56 237.49 0)
+    (property "Reference" "D108" (at 162.56 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 237.49 0)
@@ -10360,9 +10201,6 @@
     (pin "4" (uuid 66408298-d492-4bac-8c35-13360ed5349b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D108") (unit 1)
         )
@@ -10373,7 +10211,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d10e5b2-bd6e-4eb4-8ab6-f4b026e520ac)
-    (property "Reference" "D2" (at 22.86 214.63 0)
+    (property "Reference" "D86" (at 22.86 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 214.63 0)
@@ -10391,9 +10229,6 @@
     (pin "4" (uuid e15143f9-79ab-43e7-9ccd-0bf38fa27532))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D86") (unit 1)
         )
@@ -10404,7 +10239,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 156.21 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2d282488-0812-46ad-bc15-3dc08c126be0)
-    (property "Reference" "Q1" (at 151.13 43.815 0)
+    (property "Reference" "Q15" (at 151.13 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 151.13 46.355 0)
@@ -10421,9 +10256,6 @@
     (pin "3" (uuid 55c24b3f-5f02-4b7a-a171-bc6528761dc0))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q15") (unit 1)
         )
@@ -10434,7 +10266,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e4bf5cb-cf09-4903-8deb-0aefdda9699d)
-    (property "Reference" "D2" (at 134.62 123.19 0)
+    (property "Reference" "D46" (at 134.62 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 123.19 0)
@@ -10452,9 +10284,6 @@
     (pin "4" (uuid 32ce4d09-1229-4d77-b131-6ef0d3584332))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D46") (unit 1)
         )
@@ -10465,7 +10294,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f40f8ae-f124-4618-8f37-606462c9cdd9)
-    (property "Reference" "D2" (at 78.74 123.19 0)
+    (property "Reference" "D42" (at 78.74 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 123.19 0)
@@ -10483,9 +10312,6 @@
     (pin "4" (uuid cd7c7f61-84c6-4e52-a377-246fa8b5f3a4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D42") (unit 1)
         )
@@ -10521,7 +10347,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 311798d8-c2dc-4764-a3d8-45262dd7b3bc)
-    (property "Reference" "D2" (at 78.74 237.49 0)
+    (property "Reference" "D102" (at 78.74 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 237.49 0)
@@ -10539,9 +10365,6 @@
     (pin "4" (uuid fc335898-6245-491e-bb11-232fd5e9e449))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D102") (unit 1)
         )
@@ -10552,7 +10375,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32b555f9-11d9-47a2-9a51-4e60df88bf23)
-    (property "Reference" "D2" (at 120.65 214.63 0)
+    (property "Reference" "D93" (at 120.65 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 214.63 0)
@@ -10570,9 +10393,6 @@
     (pin "4" (uuid ddfc2dd4-b1e2-43c1-abf9-eb494ce0da23))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D93") (unit 1)
         )
@@ -10583,7 +10403,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3358b4e7-6e7a-4632-ab3c-fb24f77fe1c9)
-    (property "Reference" "D2" (at 78.74 168.91 0)
+    (property "Reference" "D66" (at 78.74 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 168.91 0)
@@ -10601,9 +10421,6 @@
     (pin "4" (uuid 80397cf7-fc7d-4a37-b092-4aa671ab5b94))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D66") (unit 1)
         )
@@ -10614,7 +10431,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 86.36 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 34f64f13-4fd4-486f-b2bd-9a9aafaa43a1)
-    (property "Reference" "Q1" (at 81.28 43.815 0)
+    (property "Reference" "Q10" (at 81.28 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 81.28 46.355 0)
@@ -10631,9 +10448,6 @@
     (pin "3" (uuid cc55e1ac-7af3-4eae-acab-cf60fe786aa4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q10") (unit 1)
         )
@@ -10644,7 +10458,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3578444d-21cc-45bf-875b-e5fc2436020c)
-    (property "Reference" "D2" (at 92.71 214.63 0)
+    (property "Reference" "D91" (at 92.71 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 214.63 0)
@@ -10662,9 +10476,6 @@
     (pin "4" (uuid 34de2586-a264-4a7e-a84c-d4103b9677e1))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D91") (unit 1)
         )
@@ -10675,7 +10486,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3675399a-c39a-42f5-85db-b3e51bcc29a9)
-    (property "Reference" "D2" (at 50.8 100.33 0)
+    (property "Reference" "D28" (at 50.8 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 100.33 0)
@@ -10693,9 +10504,6 @@
     (pin "4" (uuid 670ade52-7d89-4cc1-b0a0-f151a3dbf221))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D28") (unit 1)
         )
@@ -10706,7 +10514,7 @@
   (symbol (lib_id "Device:R") (at 193.04 113.03 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 36ab8eb9-94aa-464d-893f-862dd083c746)
-    (property "Reference" "R1" (at 187.96 111.76 90)
+    (property "Reference" "R72" (at 187.96 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 111.76 90)
@@ -10722,15 +10530,6 @@
     (pin "2" (uuid 25dd3885-96de-4b9e-9644-421894db2589))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R72") (unit 1)
         )
@@ -10741,7 +10540,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 37b08869-7dc7-4890-acc4-166634cb19ec)
-    (property "Reference" "D2" (at 78.74 214.63 0)
+    (property "Reference" "D90" (at 78.74 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 214.63 0)
@@ -10759,9 +10558,6 @@
     (pin "4" (uuid 2945d6ff-129b-4095-a5d1-39e937b39042))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D90") (unit 1)
         )
@@ -10772,7 +10568,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3907f76d-3176-4021-8a74-4121705fd89a)
-    (property "Reference" "D2" (at 162.56 100.33 0)
+    (property "Reference" "D36" (at 162.56 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 100.33 0)
@@ -10790,9 +10586,6 @@
     (pin "4" (uuid fc5fbeb2-0e0e-4eee-bad9-5187fca69767))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D36") (unit 1)
         )
@@ -10821,9 +10614,6 @@
     (pin "4" (uuid f8109413-af96-4782-876c-68f6ecdb3616))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D2") (unit 1)
         )
@@ -10834,7 +10624,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ea36415-c1f8-4a50-9cb3-3fdab6fde95b)
-    (property "Reference" "D2" (at 22.86 100.33 0)
+    (property "Reference" "D26" (at 22.86 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 100.33 0)
@@ -10852,9 +10642,6 @@
     (pin "4" (uuid a7123300-8c14-415a-a12e-dda064281a01))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D26") (unit 1)
         )
@@ -10865,7 +10652,7 @@
   (symbol (lib_id "Device:R") (at 193.04 90.17 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 410275b8-6097-40e5-ba2d-5d96566f963b)
-    (property "Reference" "R1" (at 187.96 88.9 90)
+    (property "Reference" "R69" (at 187.96 88.9 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 88.9 90)
@@ -10881,15 +10668,6 @@
     (pin "2" (uuid 4ab74e15-18bf-4d27-b142-8f7a53c94dc4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R69") (unit 1)
         )
@@ -10900,7 +10678,7 @@
   (symbol (lib_id "Device:C") (at 335.28 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4470849f-338c-4462-b2ed-1008308ce6cb)
-    (property "Reference" "C15" (at 339.09 60.325 0)
+    (property "Reference" "C22" (at 339.09 60.325 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 339.09 62.865 0)
@@ -10916,15 +10694,6 @@
     (pin "2" (uuid 710ca87b-b48c-403b-91ca-5dc493861f8a))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/e8cfb843-efab-422d-aa9c-640a59ac0396"
-          (reference "C15") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/0a7d71b4-2ae9-4114-b319-914176f8c7ac"
-          (reference "C19") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "C21") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "C22") (unit 1)
         )
@@ -10935,7 +10704,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 100.33 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 454ab0bb-885d-426a-b227-c6a7e04aeb3a)
-    (property "Reference" "Q1" (at 95.25 43.815 0)
+    (property "Reference" "Q11" (at 95.25 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 95.25 46.355 0)
@@ -10952,9 +10721,6 @@
     (pin "3" (uuid e53003e9-f509-4cdb-af8e-015cb4121269))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q11") (unit 1)
         )
@@ -10965,7 +10731,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 495ca845-b7df-4a16-a518-6cd4bd0c07f6)
-    (property "Reference" "D2" (at 50.8 214.63 0)
+    (property "Reference" "D88" (at 50.8 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 214.63 0)
@@ -10983,9 +10749,6 @@
     (pin "4" (uuid 8369f415-e43b-475d-a7c7-f7e0e90c0fe5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D88") (unit 1)
         )
@@ -10996,7 +10759,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49a61c2d-dfae-4b86-9f8d-e6e2057c861d)
-    (property "Reference" "D2" (at 134.62 54.61 0)
+    (property "Reference" "D10" (at 134.62 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 54.61 0)
@@ -11014,9 +10777,6 @@
     (pin "4" (uuid 471b0c00-199b-42e7-bbdf-ffeb4635b9ba))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D10") (unit 1)
         )
@@ -11027,7 +10787,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b8e27c0-7c86-47f3-8f4c-5e6d2b1cd340)
-    (property "Reference" "D2" (at 134.62 214.63 0)
+    (property "Reference" "D94" (at 134.62 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 214.63 0)
@@ -11045,9 +10805,6 @@
     (pin "4" (uuid 2b201207-b23a-41ec-914e-fb34a983e981))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D94") (unit 1)
         )
@@ -11058,7 +10815,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c8adc6f-f103-47c8-b3a9-fb3ee428cf21)
-    (property "Reference" "D2" (at 36.83 214.63 0)
+    (property "Reference" "D87" (at 36.83 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 214.63 0)
@@ -11076,9 +10833,6 @@
     (pin "4" (uuid ed77ac01-ba14-47fa-8dae-c45ea13a7d3b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D87") (unit 1)
         )
@@ -11089,7 +10843,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d3032b1-788c-4d4e-bb09-5c86fbdc1777)
-    (property "Reference" "D2" (at 78.74 191.77 0)
+    (property "Reference" "D78" (at 78.74 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 191.77 0)
@@ -11107,9 +10861,6 @@
     (pin "4" (uuid 4ffc5401-ee14-4269-9d46-7613320f768f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D78") (unit 1)
         )
@@ -11120,7 +10871,7 @@
   (symbol (lib_id "Device:R") (at 193.04 85.09 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d4c4a32-8234-4961-bdd2-7f7565e5e86a)
-    (property "Reference" "R1" (at 187.96 83.82 90)
+    (property "Reference" "R67" (at 187.96 83.82 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 83.82 90)
@@ -11136,15 +10887,6 @@
     (pin "2" (uuid 3889c720-3cb1-469b-ba28-feafdb32eec9))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R67") (unit 1)
         )
@@ -11155,7 +10897,7 @@
   (symbol (lib_id "Device:R") (at 193.04 227.33 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d64c15b-e476-4342-9582-fefc3714126b)
-    (property "Reference" "R1" (at 187.96 226.06 90)
+    (property "Reference" "R87" (at 187.96 226.06 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 226.06 90)
@@ -11171,15 +10913,6 @@
     (pin "2" (uuid 22fe6e5c-6e76-41ab-8cf7-9f4dd2386121))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R87") (unit 1)
         )
@@ -11215,7 +10948,7 @@
   (symbol (lib_id "Device:R") (at 193.04 153.67 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4ed8e6c6-1ecf-4890-85d7-08fdaf79258a)
-    (property "Reference" "R1" (at 187.96 152.4 90)
+    (property "Reference" "R76" (at 187.96 152.4 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 152.4 90)
@@ -11231,15 +10964,6 @@
     (pin "2" (uuid 04f54dcd-b1cf-4eec-8917-0eb26b082096))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R76") (unit 1)
         )
@@ -11250,7 +10974,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f2b4296-682f-40d9-ae4a-b5e073e459b3)
-    (property "Reference" "D2" (at 162.56 168.91 0)
+    (property "Reference" "D72" (at 162.56 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 168.91 0)
@@ -11268,9 +10992,6 @@
     (pin "4" (uuid dec76ad2-1ba3-48ef-a4dc-ef2fac5104e9))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D72") (unit 1)
         )
@@ -11281,7 +11002,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f655644-8a18-4a54-aefd-37c34922631c)
-    (property "Reference" "D2" (at 176.53 214.63 0)
+    (property "Reference" "D97" (at 176.53 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 214.63 0)
@@ -11299,9 +11020,6 @@
     (pin "4" (uuid 6a63da04-4d29-41e9-b5ca-267d1e12c479))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D97") (unit 1)
         )
@@ -11312,7 +11030,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4fc32700-0803-4018-88d9-5098e7a91a9f)
-    (property "Reference" "D2" (at 106.68 146.05 0)
+    (property "Reference" "D56" (at 106.68 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 146.05 0)
@@ -11330,9 +11048,6 @@
     (pin "4" (uuid cfe92087-273d-4852-b778-c4c07f5a0c33))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D56") (unit 1)
         )
@@ -11343,7 +11058,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 51c1e4a0-b40f-4d2d-927f-2effc2d74e40)
-    (property "Reference" "D2" (at 176.53 191.77 0)
+    (property "Reference" "D85" (at 176.53 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 191.77 0)
@@ -11361,9 +11076,6 @@
     (pin "4" (uuid 2c339e10-e37f-4bac-8e22-367b2eb96f2d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D85") (unit 1)
         )
@@ -11374,7 +11086,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5420ab74-c845-416c-b3d0-751038ebbb65)
-    (property "Reference" "D2" (at 106.68 100.33 0)
+    (property "Reference" "D32" (at 106.68 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 100.33 0)
@@ -11392,9 +11104,6 @@
     (pin "4" (uuid 3f87cd0a-f605-4e0f-b0b2-a3908c935f15))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D32") (unit 1)
         )
@@ -11405,7 +11114,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5462f6bd-0cb0-431e-8164-94cf8b5dfb46)
-    (property "Reference" "D2" (at 148.59 77.47 0)
+    (property "Reference" "D23" (at 148.59 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 77.47 0)
@@ -11423,9 +11132,6 @@
     (pin "4" (uuid 04bb1df4-a567-4b93-a95b-2ea86b23302b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D23") (unit 1)
         )
@@ -11436,7 +11142,7 @@
   (symbol (lib_id "Device:R") (at 105.41 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 593f7e60-cd42-4f22-900b-220139afe540)
-    (property "Reference" "R1" (at 102.87 38.1 90)
+    (property "Reference" "R53" (at 102.87 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 107.95 38.1 90)
@@ -11452,15 +11158,6 @@
     (pin "2" (uuid 0cf897dc-bb34-4ff3-bd65-93f815df576b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R53") (unit 1)
         )
@@ -11471,7 +11168,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 59b221dc-0a05-4984-be1d-279ebcf79e72)
-    (property "Reference" "D2" (at 148.59 214.63 0)
+    (property "Reference" "D95" (at 148.59 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 214.63 0)
@@ -11489,9 +11186,6 @@
     (pin "4" (uuid bc7024c8-a093-4bb5-b241-b5d926bbbda6))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D95") (unit 1)
         )
@@ -11502,7 +11196,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a41fedc-4113-4b5c-89c6-a75864403fd6)
-    (property "Reference" "D2" (at 50.8 146.05 0)
+    (property "Reference" "D52" (at 50.8 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 146.05 0)
@@ -11520,9 +11214,6 @@
     (pin "4" (uuid ea81483f-ded3-44e4-a4d1-3d4ff876f593))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D52") (unit 1)
         )
@@ -11533,7 +11224,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a890216-ce5d-4e1d-bfcb-95ac7e7a9820)
-    (property "Reference" "D2" (at 134.62 146.05 0)
+    (property "Reference" "D58" (at 134.62 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 146.05 0)
@@ -11551,9 +11242,6 @@
     (pin "4" (uuid e5ffbd30-8633-4d91-88a3-b6340d83cb29))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D58") (unit 1)
         )
@@ -11564,7 +11252,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5ac9b4cb-b226-4426-977b-673879ddb433)
-    (property "Reference" "D2" (at 64.77 123.19 0)
+    (property "Reference" "D41" (at 64.77 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 123.19 0)
@@ -11582,9 +11270,6 @@
     (pin "4" (uuid 877d4a25-30c1-46d0-a99e-a4e2e04943db))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D41") (unit 1)
         )
@@ -11595,7 +11280,7 @@
   (symbol (lib_id "Device:R") (at 193.04 62.23 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5cdec497-e696-48c5-a534-a6d422c0d884)
-    (property "Reference" "R1" (at 187.96 60.96 90)
+    (property "Reference" "R64" (at 187.96 60.96 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 60.96 90)
@@ -11611,15 +11296,6 @@
     (pin "2" (uuid 93da7254-79e4-41a4-97aa-f5e1a8277f48))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R64") (unit 1)
         )
@@ -11630,7 +11306,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 602f81fa-f6fb-4e19-9b58-ad6a63d3137c)
-    (property "Reference" "D2" (at 120.65 168.91 0)
+    (property "Reference" "D69" (at 120.65 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 168.91 0)
@@ -11648,9 +11324,6 @@
     (pin "4" (uuid 40421963-9c4f-4eee-a27b-fc0cb9547050))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D69") (unit 1)
         )
@@ -11661,7 +11334,7 @@
   (symbol (lib_id "Device:R") (at 193.04 273.05 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 617354a9-a141-49a6-a755-b5e070aa926e)
-    (property "Reference" "R1" (at 187.96 271.78 90)
+    (property "Reference" "R93" (at 187.96 271.78 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 271.78 90)
@@ -11677,15 +11350,6 @@
     (pin "2" (uuid 7997f6f6-f00e-48ba-be5d-3bf80d096923))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R93") (unit 1)
         )
@@ -11696,7 +11360,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63097d50-9ffa-4e2c-bc4e-bc3fd1cd06a8)
-    (property "Reference" "D2" (at 64.77 100.33 0)
+    (property "Reference" "D29" (at 64.77 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 100.33 0)
@@ -11714,9 +11378,6 @@
     (pin "4" (uuid b7644506-6f8a-41db-a8dd-a46ed614d4a2))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D29") (unit 1)
         )
@@ -11727,7 +11388,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 643de1b4-1ef7-4744-ab4e-fd7abcc7a7b7)
-    (property "Reference" "D2" (at 162.56 260.35 0)
+    (property "Reference" "D120" (at 162.56 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 260.35 0)
@@ -11745,9 +11406,6 @@
     (pin "4" (uuid 3d13f11c-0637-4300-bf01-e89149f93f16))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D120") (unit 1)
         )
@@ -11758,7 +11416,7 @@
   (symbol (lib_id "Device:R") (at 309.88 64.77 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 65311590-d115-45a0-a567-9513cc78b68c)
-    (property "Reference" "R1" (at 308.61 69.85 90)
+    (property "Reference" "R62" (at 308.61 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 308.61 59.69 90)
@@ -11774,15 +11432,6 @@
     (pin "2" (uuid ad232c73-6c20-4845-b81c-be40a039ec76))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R62") (unit 1)
         )
@@ -11793,7 +11442,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 114.3 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 656420a4-d814-4b82-8f1e-1e11fce8d0b2)
-    (property "Reference" "Q1" (at 109.22 43.815 0)
+    (property "Reference" "Q12" (at 109.22 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 109.22 46.355 0)
@@ -11810,9 +11459,6 @@
     (pin "3" (uuid ac0d567f-04f9-486a-841c-908572b2a61d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q12") (unit 1)
         )
@@ -11823,7 +11469,7 @@
   (symbol (lib_id "Device:R") (at 314.96 64.77 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 65dc552c-0d5f-425e-bba4-1af760d2da43)
-    (property "Reference" "R1" (at 313.69 69.85 90)
+    (property "Reference" "R60" (at 313.69 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 313.69 59.69 90)
@@ -11839,15 +11485,6 @@
     (pin "2" (uuid 45fe2e07-28bd-4a30-b215-02446b29da06))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R60") (unit 1)
         )
@@ -11858,7 +11495,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6627c041-21d4-4439-af8d-038a151e2167)
-    (property "Reference" "D2" (at 162.56 123.19 0)
+    (property "Reference" "D48" (at 162.56 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 123.19 0)
@@ -11876,9 +11513,6 @@
     (pin "4" (uuid 68584a7f-b699-40f4-bc54-06ce6cf3bc7b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D48") (unit 1)
         )
@@ -11889,7 +11523,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 669006d4-d6da-4895-b850-43537f2f1712)
-    (property "Reference" "D2" (at 120.65 54.61 0)
+    (property "Reference" "D9" (at 120.65 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 54.61 0)
@@ -11907,9 +11541,6 @@
     (pin "4" (uuid 228ebb53-cde1-4f55-bb6e-a9f8c2d17b6c))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D9") (unit 1)
         )
@@ -11920,7 +11551,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66990a7a-adcc-4570-91db-40c4b129c004)
-    (property "Reference" "D2" (at 92.71 146.05 0)
+    (property "Reference" "D55" (at 92.71 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 146.05 0)
@@ -11938,9 +11569,6 @@
     (pin "4" (uuid 6dcca5a1-76bf-4a00-a877-5ee4b93d8eb7))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D55") (unit 1)
         )
@@ -11951,7 +11579,7 @@
   (symbol (lib_id "Device:R") (at 193.04 250.19 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 679bb7a7-5e50-437b-a257-eae7bf18a656)
-    (property "Reference" "R1" (at 187.96 248.92 90)
+    (property "Reference" "R90" (at 187.96 248.92 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 248.92 90)
@@ -11967,15 +11595,6 @@
     (pin "2" (uuid 43292d07-7496-4c07-8c16-53b658c72700))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R90") (unit 1)
         )
@@ -11986,7 +11605,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67ab4b22-bd48-4cad-928b-f587b4c04d33)
-    (property "Reference" "D2" (at 162.56 146.05 0)
+    (property "Reference" "D60" (at 162.56 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 146.05 0)
@@ -12004,9 +11623,6 @@
     (pin "4" (uuid 8c0693af-df56-4643-b6b6-475a6b9b705e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D60") (unit 1)
         )
@@ -12017,7 +11633,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 687559ee-9650-4c68-bc1e-280a8094f0be)
-    (property "Reference" "D2" (at 22.86 168.91 0)
+    (property "Reference" "D62" (at 22.86 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 168.91 0)
@@ -12035,9 +11651,6 @@
     (pin "4" (uuid f9d61e5b-2831-4803-b719-bb96bd50dc1e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D62") (unit 1)
         )
@@ -12048,7 +11661,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 68a9e9b2-a54c-4b9e-9adf-a46e70449585)
-    (property "Reference" "D2" (at 134.62 191.77 0)
+    (property "Reference" "D82" (at 134.62 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 191.77 0)
@@ -12066,9 +11679,6 @@
     (pin "4" (uuid b51b6db4-9a2e-42e6-9f4b-50bd319581e9))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D82") (unit 1)
         )
@@ -12079,7 +11689,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6addeff7-dd9c-4c10-a705-344a30e1d758)
-    (property "Reference" "D2" (at 64.77 191.77 0)
+    (property "Reference" "D77" (at 64.77 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 191.77 0)
@@ -12097,9 +11707,6 @@
     (pin "4" (uuid 75525b7d-2295-40d8-9c26-57d74fba00e5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D77") (unit 1)
         )
@@ -12110,7 +11717,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6f283f77-ce3e-498d-8cc5-3633aac60a2b)
-    (property "Reference" "D2" (at 22.86 146.05 0)
+    (property "Reference" "D50" (at 22.86 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 146.05 0)
@@ -12128,9 +11735,6 @@
     (pin "4" (uuid 52e61873-44b4-468a-8223-fe5592238681))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D50") (unit 1)
         )
@@ -12141,7 +11745,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6febe04a-ef53-487d-846e-e7f1766d9761)
-    (property "Reference" "D2" (at 22.86 77.47 0)
+    (property "Reference" "D14" (at 22.86 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 77.47 0)
@@ -12159,9 +11763,6 @@
     (pin "4" (uuid d338c6a3-f54e-43fe-87a4-0f2c7de50e0e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D14") (unit 1)
         )
@@ -12172,7 +11773,7 @@
   (symbol (lib_id "Device:R") (at 193.04 204.47 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7017adf8-b22c-4575-8461-2a3e486a9b6a)
-    (property "Reference" "R1" (at 187.96 203.2 90)
+    (property "Reference" "R84" (at 187.96 203.2 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 203.2 90)
@@ -12188,15 +11789,6 @@
     (pin "2" (uuid b7848fba-1151-4000-a489-62dda7a62da5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R84") (unit 1)
         )
@@ -12207,7 +11799,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71adce86-06c9-400f-9731-d7d468fb8321)
-    (property "Reference" "D2" (at 50.8 54.61 0)
+    (property "Reference" "D4" (at 50.8 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 54.61 0)
@@ -12225,9 +11817,6 @@
     (pin "4" (uuid 944aa50d-3e9b-47e1-b61d-cce53ae92ea8))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D4") (unit 1)
         )
@@ -12238,7 +11827,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71c5421b-d5f1-4a62-aa82-143ded29f9de)
-    (property "Reference" "D2" (at 134.62 260.35 0)
+    (property "Reference" "D118" (at 134.62 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 260.35 0)
@@ -12256,9 +11845,6 @@
     (pin "4" (uuid cb05a3ce-30b2-4ffa-8a89-aa29a98154cd))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D118") (unit 1)
         )
@@ -12269,7 +11855,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 722db186-3291-41ee-88cc-f465b4a0bcc1)
-    (property "Reference" "D2" (at 148.59 123.19 0)
+    (property "Reference" "D47" (at 148.59 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 123.19 0)
@@ -12287,9 +11873,6 @@
     (pin "4" (uuid 2d6924b6-de5e-4360-8bb0-1f93a858e969))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D47") (unit 1)
         )
@@ -12300,7 +11883,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 30.48 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 744bb32d-501d-4c6b-a25e-3399078bebd2)
-    (property "Reference" "Q1" (at 25.4 43.815 0)
+    (property "Reference" "Q6" (at 25.4 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 25.4 46.355 0)
@@ -12317,9 +11900,6 @@
     (pin "3" (uuid ae226e41-8e78-4490-b921-6d51c4a07b08))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q6") (unit 1)
         )
@@ -12330,7 +11910,7 @@
   (symbol (lib_id "Device:R") (at 193.04 133.35 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 744fa373-d11b-470a-b653-dbd143c24eef)
-    (property "Reference" "R1" (at 187.96 132.08 90)
+    (property "Reference" "R74" (at 187.96 132.08 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 132.08 90)
@@ -12346,15 +11926,6 @@
     (pin "2" (uuid f7d103ce-e053-4998-9b7e-72355ded4a0d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R74") (unit 1)
         )
@@ -12365,7 +11936,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 44.45 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74e73256-021b-4157-b9df-818b42e0133b)
-    (property "Reference" "Q1" (at 39.37 43.815 0)
+    (property "Reference" "Q7" (at 39.37 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 39.37 46.355 0)
@@ -12382,9 +11953,6 @@
     (pin "3" (uuid 4876fbf2-0ed6-4182-b5a8-d3f33489a3ba))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q7") (unit 1)
         )
@@ -12395,7 +11963,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 759d46ed-31a7-479f-bb59-e84a937f491d)
-    (property "Reference" "D2" (at 120.65 237.49 0)
+    (property "Reference" "D105" (at 120.65 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 237.49 0)
@@ -12413,9 +11981,6 @@
     (pin "4" (uuid c7208a7e-4a8f-4c70-b07e-304e1b7874fe))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D105") (unit 1)
         )
@@ -12426,7 +11991,7 @@
   (symbol (lib_id "Device:R") (at 193.04 270.51 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 760e8c5e-a8f8-41bf-8478-acd765ddd27a)
-    (property "Reference" "R1" (at 187.96 269.24 90)
+    (property "Reference" "R92" (at 187.96 269.24 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 269.24 90)
@@ -12442,15 +12007,6 @@
     (pin "2" (uuid 2b24262f-930b-48be-a05e-14f4b94402b5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R92") (unit 1)
         )
@@ -12461,7 +12017,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76f9fda0-bf76-402e-8dff-c5f64f5a67d9)
-    (property "Reference" "D2" (at 36.83 123.19 0)
+    (property "Reference" "D39" (at 36.83 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 123.19 0)
@@ -12479,9 +12035,6 @@
     (pin "4" (uuid d71f55b1-b2e2-4a4f-9c5b-37faba3cb2be))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D39") (unit 1)
         )
@@ -12492,7 +12045,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 775588e2-5796-4866-b161-6a80ad5faa2e)
-    (property "Reference" "D2" (at 120.65 123.19 0)
+    (property "Reference" "D45" (at 120.65 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 123.19 0)
@@ -12510,9 +12063,6 @@
     (pin "4" (uuid bef53614-8c1e-41e6-87ac-825bf78ce2b3))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D45") (unit 1)
         )
@@ -12523,7 +12073,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78c20dda-3122-4e4e-98a9-30b3a6f2545d)
-    (property "Reference" "D2" (at 36.83 168.91 0)
+    (property "Reference" "D63" (at 36.83 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 168.91 0)
@@ -12541,9 +12091,6 @@
     (pin "4" (uuid 00004c4d-ea00-4c0a-a935-f559859d26a4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D63") (unit 1)
         )
@@ -12579,7 +12126,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c328a9b-5651-422f-aeb2-06d6a043ee31)
-    (property "Reference" "D2" (at 134.62 237.49 0)
+    (property "Reference" "D106" (at 134.62 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 237.49 0)
@@ -12597,9 +12144,6 @@
     (pin "4" (uuid e3d228ce-44e5-45b0-9fb9-04696363d419))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D106") (unit 1)
         )
@@ -12610,7 +12154,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c53c9e2-7c2e-4823-9e86-1acea6c0b65d)
-    (property "Reference" "D2" (at 106.68 77.47 0)
+    (property "Reference" "D20" (at 106.68 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 77.47 0)
@@ -12628,9 +12172,6 @@
     (pin "4" (uuid d16c4f57-6856-40d4-bbe6-616952d95651))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D20") (unit 1)
         )
@@ -12641,7 +12182,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d8e4a76-f67f-4972-bd1e-383dbf92217f)
-    (property "Reference" "D2" (at 22.86 260.35 0)
+    (property "Reference" "D110" (at 22.86 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 260.35 0)
@@ -12659,9 +12200,6 @@
     (pin "4" (uuid d0de0c6a-ad7b-413f-995a-2446756fcd85))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D110") (unit 1)
         )
@@ -12672,7 +12210,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d9bea14-daf9-4828-8140-03641a9eadb6)
-    (property "Reference" "D2" (at 78.74 100.33 0)
+    (property "Reference" "D30" (at 78.74 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 100.33 0)
@@ -12690,9 +12228,6 @@
     (pin "4" (uuid 11b80edf-a072-431b-a06d-60cd51503901))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D30") (unit 1)
         )
@@ -12703,7 +12238,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7eb0b418-5172-43e2-a415-70d57c129180)
-    (property "Reference" "D2" (at 64.77 168.91 0)
+    (property "Reference" "D65" (at 64.77 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 168.91 0)
@@ -12721,9 +12256,6 @@
     (pin "4" (uuid 39c21a6e-aade-4977-82ac-84e7ae5044b9))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D65") (unit 1)
         )
@@ -12734,7 +12266,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ee40850-d161-43be-93d9-cca215b4f40b)
-    (property "Reference" "D2" (at 50.8 237.49 0)
+    (property "Reference" "D100" (at 50.8 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 237.49 0)
@@ -12752,9 +12284,6 @@
     (pin "4" (uuid 70cce6da-21f3-473a-9813-6a7c5dfcb267))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D100") (unit 1)
         )
@@ -12765,7 +12294,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7fc499dd-4d6b-4134-a6df-61c7a74f39e6)
-    (property "Reference" "D2" (at 36.83 77.47 0)
+    (property "Reference" "D15" (at 36.83 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 77.47 0)
@@ -12783,9 +12312,6 @@
     (pin "4" (uuid 5ec83b52-6509-4082-95cf-5c91a2227d2c))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D15") (unit 1)
         )
@@ -12796,7 +12322,7 @@
   (symbol (lib_id "Device:R") (at 193.04 199.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 81927a26-e8bd-42d4-b8f7-0d52a8874f36)
-    (property "Reference" "R1" (at 187.96 198.12 90)
+    (property "Reference" "R82" (at 187.96 198.12 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 198.12 90)
@@ -12812,15 +12338,6 @@
     (pin "2" (uuid 6a8caab7-dfd2-4fa9-a41b-a96add29a36a))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R82") (unit 1)
         )
@@ -12831,7 +12348,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8217eb2d-c5f7-48f2-aacd-7fb1282f8b57)
-    (property "Reference" "D2" (at 78.74 77.47 0)
+    (property "Reference" "D18" (at 78.74 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 77.47 0)
@@ -12849,9 +12366,6 @@
     (pin "4" (uuid e7d7dfa1-ac64-431b-96fe-7f2b6bb95e3b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D18") (unit 1)
         )
@@ -12862,7 +12376,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8463bfd5-09a7-4b07-804a-5420f55e7cc7)
-    (property "Reference" "D2" (at 22.86 191.77 0)
+    (property "Reference" "D74" (at 22.86 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 191.77 0)
@@ -12880,9 +12394,6 @@
     (pin "4" (uuid 9c9dd91f-b5a7-45fa-a984-33e28c1a72b6))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D74") (unit 1)
         )
@@ -12893,7 +12404,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 84dd33c3-3760-4de2-b2fe-d08e5aeec9ed)
-    (property "Reference" "D2" (at 120.65 260.35 0)
+    (property "Reference" "D117" (at 120.65 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 260.35 0)
@@ -12911,9 +12422,6 @@
     (pin "4" (uuid 73066ae1-37f9-403e-a693-0ef6956cb0a1))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D117") (unit 1)
         )
@@ -13329,7 +12837,7 @@
   (symbol (lib_id "Device:R") (at 193.04 245.11 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 854bc865-23fc-43fb-919d-41393688d03e)
-    (property "Reference" "R1" (at 187.96 243.84 90)
+    (property "Reference" "R88" (at 187.96 243.84 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 243.84 90)
@@ -13345,15 +12853,6 @@
     (pin "2" (uuid 5da87182-eefd-40bb-83e0-a1274da83214))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R88") (unit 1)
         )
@@ -13364,7 +12863,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87445122-aaf5-4ab9-887b-94cfe0b55caa)
-    (property "Reference" "D2" (at 64.77 260.35 0)
+    (property "Reference" "D113" (at 64.77 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 260.35 0)
@@ -13382,9 +12881,6 @@
     (pin "4" (uuid 189e9462-2938-4724-8414-d04f6d9ac295))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D113") (unit 1)
         )
@@ -13395,7 +12891,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87dc950f-994e-43d2-9046-b7f7470c0705)
-    (property "Reference" "D2" (at 64.77 54.61 0)
+    (property "Reference" "D5" (at 64.77 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 54.61 0)
@@ -13413,9 +12909,6 @@
     (pin "4" (uuid 1cc1fae4-0491-4233-833e-b8e3ff4ea80a))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D5") (unit 1)
         )
@@ -13426,7 +12919,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8985db51-3453-4494-b08f-9aa225256f31)
-    (property "Reference" "D2" (at 50.8 260.35 0)
+    (property "Reference" "D112" (at 50.8 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 260.35 0)
@@ -13444,9 +12937,6 @@
     (pin "4" (uuid ca83b28e-e6a7-4c42-8ba6-32c8cf3bd986))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D112") (unit 1)
         )
@@ -13482,7 +12972,7 @@
   (symbol (lib_id "Device:R") (at 161.29 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8b7ecb82-3842-43dd-89ca-9282db8b4f72)
-    (property "Reference" "R1" (at 158.75 38.1 90)
+    (property "Reference" "R57" (at 158.75 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 163.83 38.1 90)
@@ -13498,15 +12988,6 @@
     (pin "2" (uuid 8430b309-bc85-4ac6-a042-b5a1b4569ead))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R57") (unit 1)
         )
@@ -13517,7 +12998,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 134.62 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cd1b637-0527-4ad4-bc66-38f3afeccfe6)
-    (property "Reference" "D2" (at 134.62 77.47 0)
+    (property "Reference" "D22" (at 134.62 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 134.62 77.47 0)
@@ -13535,9 +13016,6 @@
     (pin "4" (uuid 5623a3d0-722c-4d72-b48f-67f7951e78ad))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D22") (unit 1)
         )
@@ -13548,7 +13026,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d0b5e67-913c-4379-9b5c-f5c828b7ccf6)
-    (property "Reference" "D2" (at 176.53 54.61 0)
+    (property "Reference" "D13" (at 176.53 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 54.61 0)
@@ -13566,9 +13044,6 @@
     (pin "4" (uuid e1c016dc-181b-407d-9f42-0384f655cb26))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D13") (unit 1)
         )
@@ -13579,7 +13054,7 @@
   (symbol (lib_id "Device:R") (at 77.47 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8df21ca7-5236-47e4-bc98-b8d50cce7677)
-    (property "Reference" "R1" (at 74.93 38.1 90)
+    (property "Reference" "R51" (at 74.93 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 80.01 38.1 90)
@@ -13595,15 +13070,6 @@
     (pin "2" (uuid 3b82b11f-4db4-4666-bf46-3567c59323c8))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R51") (unit 1)
         )
@@ -13614,7 +13080,7 @@
   (symbol (lib_id "power:GND") (at 325.12 121.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92fa70fe-71a0-4f6b-a916-9382c644c4f3)
-    (property "Reference" "#PWR060" (at 325.12 128.27 0)
+    (property "Reference" "#PWR075" (at 325.12 128.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 325.12 127 0)
@@ -13629,9 +13095,6 @@
     (pin "1" (uuid 76c54d42-8945-473d-83b5-168afd22dd96))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "#PWR060") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "#PWR075") (unit 1)
         )
@@ -13642,7 +13105,7 @@
   (symbol (lib_id "Device:R") (at 147.32 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9413ea4d-ab6a-45ba-8355-69792e212b3b)
-    (property "Reference" "R1" (at 144.78 38.1 90)
+    (property "Reference" "R56" (at 144.78 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 149.86 38.1 90)
@@ -13658,15 +13121,6 @@
     (pin "2" (uuid 1763ef86-41ec-4b94-b597-7a2637cbc0d7))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R56") (unit 1)
         )
@@ -13677,7 +13131,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9495dabd-b37c-4fd1-82e5-7a5f5177d71c)
-    (property "Reference" "D2" (at 64.77 237.49 0)
+    (property "Reference" "D101" (at 64.77 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 237.49 0)
@@ -13695,9 +13149,6 @@
     (pin "4" (uuid 4697b2f1-9c9b-47c5-9701-f7be37df91b5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D101") (unit 1)
         )
@@ -13708,7 +13159,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 956f7ace-31a3-4a37-9e86-8835777c746a)
-    (property "Reference" "D2" (at 162.56 191.77 0)
+    (property "Reference" "D84" (at 162.56 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 191.77 0)
@@ -13726,9 +13177,6 @@
     (pin "4" (uuid 739f1706-136a-462a-ac5a-be57e1049123))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D84") (unit 1)
         )
@@ -13739,7 +13187,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 22.86 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 96019beb-d092-459d-8d28-c6fee9d1466b)
-    (property "Reference" "D2" (at 22.86 237.49 0)
+    (property "Reference" "D98" (at 22.86 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 22.86 237.49 0)
@@ -13757,9 +13205,6 @@
     (pin "4" (uuid 7f4af1f9-223c-451a-8d82-e2c01c0a548f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D98") (unit 1)
         )
@@ -13770,7 +13215,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98d989cb-5683-4c59-8504-5198f283ef5f)
-    (property "Reference" "D2" (at 176.53 77.47 0)
+    (property "Reference" "D25" (at 176.53 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 77.47 0)
@@ -13788,9 +13233,6 @@
     (pin "4" (uuid 1104d15d-0016-43c5-a19a-2a100a68a8f6))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D25") (unit 1)
         )
@@ -13801,7 +13243,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98e54d10-cb28-48fc-946f-e66f6b7a6328)
-    (property "Reference" "D2" (at 106.68 237.49 0)
+    (property "Reference" "D104" (at 106.68 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 237.49 0)
@@ -13819,9 +13261,6 @@
     (pin "4" (uuid 06e1e16f-f74e-4417-8bd5-a60f0ea5c505))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D104") (unit 1)
         )
@@ -13832,7 +13271,7 @@
   (symbol (lib_id "Device:R") (at 193.04 179.07 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 992a8783-a107-49c3-91c8-fab78cc005b3)
-    (property "Reference" "R1" (at 187.96 177.8 90)
+    (property "Reference" "R80" (at 187.96 177.8 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 177.8 90)
@@ -13848,15 +13287,6 @@
     (pin "2" (uuid c66a7679-6ed0-4a36-b489-03f07560ed55))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R80") (unit 1)
         )
@@ -13892,7 +13322,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a01dce2a-3897-494e-8171-03c565af90a3)
-    (property "Reference" "D2" (at 120.65 100.33 0)
+    (property "Reference" "D33" (at 120.65 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 100.33 0)
@@ -13910,9 +13340,6 @@
     (pin "4" (uuid 8997d887-4c6c-4215-9b6b-bfed7d593ca3))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D33") (unit 1)
         )
@@ -13923,7 +13350,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0420eac-4b64-47ed-904f-b8913a1afee4)
-    (property "Reference" "D2" (at 92.71 260.35 0)
+    (property "Reference" "D115" (at 92.71 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 260.35 0)
@@ -13941,9 +13368,6 @@
     (pin "4" (uuid a1e181bc-5dd8-4d9a-884b-15a7d3aff61f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D115") (unit 1)
         )
@@ -13954,7 +13378,7 @@
   (symbol (lib_id "Device:R") (at 189.23 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3e6a4f7-5a7f-4c01-a78f-262bada87162)
-    (property "Reference" "R1" (at 186.69 38.1 90)
+    (property "Reference" "R59" (at 186.69 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 191.77 38.1 90)
@@ -13970,15 +13394,6 @@
     (pin "2" (uuid e044951a-97be-4383-a44f-df98cc4d4eee))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R59") (unit 1)
         )
@@ -13989,7 +13404,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4184f1c-8f93-42e6-9313-eda5e0292e58)
-    (property "Reference" "D2" (at 36.83 260.35 0)
+    (property "Reference" "D111" (at 36.83 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 260.35 0)
@@ -14007,9 +13422,6 @@
     (pin "4" (uuid 655416af-11aa-429b-ab45-9e2a90e7b45b))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D111") (unit 1)
         )
@@ -14020,7 +13432,7 @@
   (symbol (lib_id "power:+3.3V") (at 331.47 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a5e7722a-d7b8-41f0-9f20-3d70e5141d87)
-    (property "Reference" "#PWR058" (at 331.47 139.7 0)
+    (property "Reference" "#PWR080" (at 331.47 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3.3V" (at 331.47 132.08 0)
@@ -14035,9 +13447,6 @@
     (pin "1" (uuid 6aab1b5a-7650-4ddb-8066-c003de6b53cb))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "#PWR058") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "#PWR080") (unit 1)
         )
@@ -14048,7 +13457,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 142.24 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a958e4c5-12fa-40f6-a56d-83313b5a811d)
-    (property "Reference" "Q1" (at 137.16 43.815 0)
+    (property "Reference" "Q14" (at 137.16 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 137.16 46.355 0)
@@ -14065,9 +13474,6 @@
     (pin "3" (uuid c1bd29c6-eee7-4c61-bc26-54b20fcbdeec))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q14") (unit 1)
         )
@@ -14078,7 +13484,7 @@
   (symbol (lib_id "Device:R") (at 193.04 64.77 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aad82a44-494d-4f4f-9c84-bfadf6ab3577)
-    (property "Reference" "R1" (at 187.96 63.5 90)
+    (property "Reference" "R65" (at 187.96 63.5 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 63.5 90)
@@ -14094,15 +13500,6 @@
     (pin "2" (uuid 95644fc7-37cf-4c50-9622-80265982c943))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R65") (unit 1)
         )
@@ -14113,7 +13510,7 @@
   (symbol (lib_id "Device:R") (at 193.04 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad6462ed-e6e7-4266-ab7e-d9cf8dd59302)
-    (property "Reference" "R1" (at 187.96 134.62 90)
+    (property "Reference" "R75" (at 187.96 134.62 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 134.62 90)
@@ -14129,15 +13526,6 @@
     (pin "2" (uuid d69ea06c-fa06-4512-8c70-e84bb57f9f28))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R75") (unit 1)
         )
@@ -14148,7 +13536,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 170.18 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ad73945a-a520-4ad5-ad5d-e546fb60b280)
-    (property "Reference" "Q1" (at 165.1 43.815 0)
+    (property "Reference" "Q16" (at 165.1 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 165.1 46.355 0)
@@ -14165,9 +13553,6 @@
     (pin "3" (uuid c6553419-2fad-4278-ac57-d7cd2311b421))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q16") (unit 1)
         )
@@ -14178,7 +13563,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad91bb2c-5795-43a6-958d-2b0a020cfd94)
-    (property "Reference" "D2" (at 36.83 100.33 0)
+    (property "Reference" "D27" (at 36.83 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 100.33 0)
@@ -14196,9 +13581,6 @@
     (pin "4" (uuid c6ed24c0-c6c4-494c-b1ec-963fa5df7c2d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D27") (unit 1)
         )
@@ -14209,7 +13591,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 184.15 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid afef31ec-a13d-4e10-b9dd-846ed92a13ff)
-    (property "Reference" "Q1" (at 179.07 43.815 0)
+    (property "Reference" "Q17" (at 179.07 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 179.07 46.355 0)
@@ -14226,9 +13608,6 @@
     (pin "3" (uuid 7559e11e-f224-40cb-9960-0437935bde90))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q17") (unit 1)
         )
@@ -14239,7 +13618,7 @@
   (symbol (lib_id "Transistor_BJT:BC807") (at 128.27 44.45 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b002bfe6-0eab-4395-a7d7-382e592ac6af)
-    (property "Reference" "Q1" (at 123.19 43.815 0)
+    (property "Reference" "Q13" (at 123.19 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BC807" (at 123.19 46.355 0)
@@ -14256,9 +13635,6 @@
     (pin "3" (uuid d6578de1-bc2d-404f-b5ff-0dc191ca0e2d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "Q1") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "Q13") (unit 1)
         )
@@ -14269,7 +13645,7 @@
   (symbol (lib_id "Device:R") (at 193.04 176.53 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b10a60e2-584e-42ae-82b2-3c5d8035bfbe)
-    (property "Reference" "R1" (at 187.96 175.26 90)
+    (property "Reference" "R79" (at 187.96 175.26 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 175.26 90)
@@ -14285,15 +13661,6 @@
     (pin "2" (uuid 5c627e21-6314-4f56-b5ad-76e21a0084db))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R79") (unit 1)
         )
@@ -14304,7 +13671,7 @@
   (symbol (lib_id "Device:R") (at 63.5 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2034c14-d15d-4ca5-91d8-e0990efda369)
-    (property "Reference" "R1" (at 60.96 38.1 90)
+    (property "Reference" "R50" (at 60.96 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 66.04 38.1 90)
@@ -14320,15 +13687,6 @@
     (pin "2" (uuid 2cc7366a-7866-4b0b-8dfa-f8426d66d214))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R50") (unit 1)
         )
@@ -14339,7 +13697,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b41afcde-cff0-47dd-a2b2-7e6e69d3fa27)
-    (property "Reference" "D2" (at 162.56 214.63 0)
+    (property "Reference" "D96" (at 162.56 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 214.63 0)
@@ -14357,9 +13715,6 @@
     (pin "4" (uuid 96dc923b-f026-42a6-8607-20d325187295))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D96") (unit 1)
         )
@@ -14370,7 +13725,7 @@
   (symbol (lib_id "Device:R") (at 193.04 181.61 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b467d694-f195-42c5-aaa7-93ade720865c)
-    (property "Reference" "R1" (at 187.96 180.34 90)
+    (property "Reference" "R81" (at 187.96 180.34 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 180.34 90)
@@ -14386,15 +13741,6 @@
     (pin "2" (uuid 730e5734-c53a-4f86-a204-fada81627d5c))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R81") (unit 1)
         )
@@ -14405,7 +13751,7 @@
   (symbol (lib_id "Device:R") (at 193.04 110.49 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b63cbc4d-ba15-42c6-9e84-188cb9661801)
-    (property "Reference" "R1" (at 187.96 109.22 90)
+    (property "Reference" "R71" (at 187.96 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 109.22 90)
@@ -14421,15 +13767,6 @@
     (pin "2" (uuid 396c9328-6f6a-4310-97c6-74db0cf73749))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R71") (unit 1)
         )
@@ -14440,7 +13777,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b740a161-a21c-460b-869a-662baec66b7f)
-    (property "Reference" "D2" (at 106.68 54.61 0)
+    (property "Reference" "D8" (at 106.68 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 54.61 0)
@@ -14458,9 +13795,6 @@
     (pin "4" (uuid 3d00f929-8e97-4215-8358-c4b7a4af3c13))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D8") (unit 1)
         )
@@ -14471,7 +13805,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b98bc0a4-9297-4a7b-b341-502020cc0c1b)
-    (property "Reference" "D2" (at 64.77 146.05 0)
+    (property "Reference" "D53" (at 64.77 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 146.05 0)
@@ -14489,9 +13823,6 @@
     (pin "4" (uuid 5a0eeecb-4833-40a7-aa48-793d3137bcb1))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D53") (unit 1)
         )
@@ -14502,7 +13833,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9d2debf-ecb6-4a22-95a3-afb4e0399afb)
-    (property "Reference" "D2" (at 148.59 168.91 0)
+    (property "Reference" "D71" (at 148.59 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 168.91 0)
@@ -14520,9 +13851,6 @@
     (pin "4" (uuid 5b17155e-8c1a-4ddc-97ae-bbfafc99b897))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D71") (unit 1)
         )
@@ -14533,7 +13861,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb29a253-f0bb-48f6-acde-15645c2179ca)
-    (property "Reference" "D2" (at 148.59 100.33 0)
+    (property "Reference" "D35" (at 148.59 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 100.33 0)
@@ -14551,9 +13879,6 @@
     (pin "4" (uuid 39dbd512-7f5a-41f5-983e-295ed082480c))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D35") (unit 1)
         )
@@ -14564,7 +13889,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb72685c-1287-4854-964f-6b107c3b79de)
-    (property "Reference" "D2" (at 106.68 123.19 0)
+    (property "Reference" "D44" (at 106.68 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 123.19 0)
@@ -14582,9 +13907,6 @@
     (pin "4" (uuid 81070dea-a026-4a95-ab02-084c1ba16963))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D44") (unit 1)
         )
@@ -14595,7 +13917,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bea71182-8c22-49ed-87a5-cdd7a8f03899)
-    (property "Reference" "D2" (at 176.53 237.49 0)
+    (property "Reference" "D109" (at 176.53 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 237.49 0)
@@ -14613,9 +13935,6 @@
     (pin "4" (uuid a7937420-81ce-480b-9a48-cd59e772cd03))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D109") (unit 1)
         )
@@ -14626,7 +13945,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c0c804f7-2dcf-436d-af5e-816781e6a304)
-    (property "Reference" "D2" (at 36.83 54.61 0)
+    (property "Reference" "D3" (at 36.83 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 54.61 0)
@@ -14644,9 +13963,6 @@
     (pin "4" (uuid 2cddf41b-ffce-48c6-ad34-1982700ad991))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D3") (unit 1)
         )
@@ -14657,7 +13973,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4d1abc2-be84-4d55-9733-e2ba66ae49a1)
-    (property "Reference" "D2" (at 176.53 123.19 0)
+    (property "Reference" "D49" (at 176.53 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 123.19 0)
@@ -14675,9 +13991,6 @@
     (pin "4" (uuid 3196b083-7b7f-4085-9751-2303e6a8770d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D49") (unit 1)
         )
@@ -14688,7 +14001,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 148.59 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c566e942-baae-46ae-8065-fc198c7372f5)
-    (property "Reference" "D2" (at 148.59 146.05 0)
+    (property "Reference" "D59" (at 148.59 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 148.59 146.05 0)
@@ -14706,9 +14019,6 @@
     (pin "4" (uuid f22d5a0b-dbaa-4002-a85f-98e343a7c199))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D59") (unit 1)
         )
@@ -14744,7 +14054,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9569506-1a88-49b8-870d-d123201b7096)
-    (property "Reference" "D2" (at 120.65 77.47 0)
+    (property "Reference" "D21" (at 120.65 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 77.47 0)
@@ -14762,9 +14072,6 @@
     (pin "4" (uuid f481c794-7145-4069-8a47-e6651c187e16))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D21") (unit 1)
         )
@@ -14775,7 +14082,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca4ddef1-ecf2-4791-af97-5dbf5b07a14b)
-    (property "Reference" "D2" (at 92.71 54.61 0)
+    (property "Reference" "D7" (at 92.71 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 54.61 0)
@@ -14793,9 +14100,6 @@
     (pin "4" (uuid b280fc49-699c-46ef-869b-274a088219d5))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D7") (unit 1)
         )
@@ -14806,7 +14110,7 @@
   (symbol (lib_id "power:GND") (at 335.28 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cf432edf-3f19-4a7a-bb19-eb0954adcd29)
-    (property "Reference" "#PWR060" (at 335.28 71.12 0)
+    (property "Reference" "#PWR074" (at 335.28 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 335.28 69.85 0)
@@ -14821,9 +14125,6 @@
     (pin "1" (uuid 5b002f06-65bc-42e7-a59d-80f62b494ad2))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "#PWR060") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "#PWR074") (unit 1)
         )
@@ -14834,7 +14135,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d39fb463-e1ff-4197-966f-3b29d3c2fd8e)
-    (property "Reference" "D2" (at 78.74 146.05 0)
+    (property "Reference" "D54" (at 78.74 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 146.05 0)
@@ -14852,9 +14153,6 @@
     (pin "4" (uuid 0a997b93-1a45-4323-be66-4e8ef5452ade))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D54") (unit 1)
         )
@@ -14865,7 +14163,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d3ef3855-df0e-4cd7-a8e6-dbef32d1f04b)
-    (property "Reference" "D2" (at 92.71 191.77 0)
+    (property "Reference" "D79" (at 92.71 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 191.77 0)
@@ -14883,9 +14181,6 @@
     (pin "4" (uuid 2b1e1c29-b1c7-459e-8d34-4a69021182ef))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D79") (unit 1)
         )
@@ -14896,7 +14191,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d78728ef-59f4-4f08-8fa7-7265b4541a04)
-    (property "Reference" "D2" (at 36.83 237.49 0)
+    (property "Reference" "D99" (at 36.83 237.49 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 237.49 0)
@@ -14914,9 +14209,6 @@
     (pin "4" (uuid fec65f99-5f89-42b4-a404-ab0ab2492eb4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D99") (unit 1)
         )
@@ -14927,7 +14219,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8a29248-bc58-41a4-b88c-fae4d6175c0f)
-    (property "Reference" "D2" (at 176.53 168.91 0)
+    (property "Reference" "D73" (at 176.53 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 168.91 0)
@@ -14945,9 +14237,6 @@
     (pin "4" (uuid 891808f4-6df7-4afb-b5cf-f29a1817be80))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D73") (unit 1)
         )
@@ -14983,7 +14272,7 @@
   (symbol (lib_id "Device:R") (at 193.04 247.65 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd01310a-3fba-4889-b40a-4c37918bc42d)
-    (property "Reference" "R1" (at 187.96 246.38 90)
+    (property "Reference" "R89" (at 187.96 246.38 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 246.38 90)
@@ -14999,15 +14288,6 @@
     (pin "2" (uuid c5277d4d-ee67-482c-b243-91a257bbc498))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R89") (unit 1)
         )
@@ -15018,7 +14298,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd1c02be-1a31-4b0b-b836-b976082e2391)
-    (property "Reference" "D2" (at 106.68 260.35 0)
+    (property "Reference" "D116" (at 106.68 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 260.35 0)
@@ -15036,9 +14316,6 @@
     (pin "4" (uuid d4ce1129-a169-44d8-aa4d-f748d8a128c4))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D116") (unit 1)
         )
@@ -15049,7 +14326,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df843e10-b740-4853-aace-b2c3ea13a6c5)
-    (property "Reference" "D2" (at 92.71 168.91 0)
+    (property "Reference" "D67" (at 92.71 168.91 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 168.91 0)
@@ -15067,9 +14344,6 @@
     (pin "4" (uuid c33ffd96-8b05-4339-bab6-2f26dbee1816))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D67") (unit 1)
         )
@@ -15080,7 +14354,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dfdb2736-2141-434b-8ba5-e8140ac4421d)
-    (property "Reference" "D2" (at 176.53 260.35 0)
+    (property "Reference" "D121" (at 176.53 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 260.35 0)
@@ -15098,9 +14372,6 @@
     (pin "4" (uuid e08d173d-a9cb-4491-ae32-a617fccdea80))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D121") (unit 1)
         )
@@ -15111,7 +14382,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0790292-5e2c-40e3-86bb-4fa708ef361c)
-    (property "Reference" "D2" (at 92.71 77.47 0)
+    (property "Reference" "D19" (at 92.71 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 77.47 0)
@@ -15129,9 +14400,6 @@
     (pin "4" (uuid 307858a2-92f3-4395-812c-40a20a4c8acd))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D19") (unit 1)
         )
@@ -15142,7 +14410,7 @@
   (symbol (lib_id "Device:R") (at 175.26 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e466488f-c5aa-42df-b7b8-34cc20528c3a)
-    (property "Reference" "R1" (at 172.72 38.1 90)
+    (property "Reference" "R58" (at 172.72 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 177.8 38.1 90)
@@ -15158,15 +14426,6 @@
     (pin "2" (uuid 055c59ed-a2e8-40db-a97d-38949a83031e))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R58") (unit 1)
         )
@@ -15177,7 +14436,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 176.53 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e51249d7-356d-4dcc-aac8-d352ce41fa59)
-    (property "Reference" "D2" (at 176.53 100.33 0)
+    (property "Reference" "D37" (at 176.53 100.33 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 176.53 100.33 0)
@@ -15195,9 +14454,6 @@
     (pin "4" (uuid 4bf70704-b9f6-49e9-adc2-ecd332ff6c16))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D37") (unit 1)
         )
@@ -15208,7 +14464,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e611ae4c-cdcb-4fcc-b9cb-dcded0da82fb)
-    (property "Reference" "D2" (at 50.8 191.77 0)
+    (property "Reference" "D76" (at 50.8 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 191.77 0)
@@ -15226,9 +14482,6 @@
     (pin "4" (uuid d5c36caf-abb0-415e-a864-27a89a46fdb1))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D76") (unit 1)
         )
@@ -15239,7 +14492,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 50.8 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e741d842-c6f0-430e-a052-876d2dc1bcef)
-    (property "Reference" "D2" (at 50.8 123.19 0)
+    (property "Reference" "D40" (at 50.8 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 50.8 123.19 0)
@@ -15257,9 +14510,6 @@
     (pin "4" (uuid 1c85bbc4-af0a-4968-920c-62acce483911))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D40") (unit 1)
         )
@@ -15270,7 +14520,7 @@
   (symbol (lib_id "Device:R") (at 193.04 267.97 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea753c2b-a2bd-49ae-b595-a3302929ee64)
-    (property "Reference" "R1" (at 187.96 266.7 90)
+    (property "Reference" "R91" (at 187.96 266.7 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 266.7 90)
@@ -15286,15 +14536,6 @@
     (pin "2" (uuid 32395971-cfd3-4f95-8e3a-c2749749355a))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R91") (unit 1)
         )
@@ -15305,7 +14546,7 @@
   (symbol (lib_id "Device:R") (at 49.53 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb1b34a5-c410-496f-8f27-6d7e4e093871)
-    (property "Reference" "R1" (at 46.99 38.1 90)
+    (property "Reference" "R49" (at 46.99 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 52.07 38.1 90)
@@ -15321,15 +14562,6 @@
     (pin "2" (uuid fc40bacb-2254-43a8-9b93-c3580045a20d))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R49") (unit 1)
         )
@@ -15340,7 +14572,7 @@
   (symbol (lib_id "Device:R") (at 193.04 130.81 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eef89137-dbdc-4a31-a564-92d662c257d8)
-    (property "Reference" "R1" (at 187.96 129.54 90)
+    (property "Reference" "R73" (at 187.96 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 129.54 90)
@@ -15356,15 +14588,6 @@
     (pin "2" (uuid 94773cb6-ce55-45b2-8718-5c4b0b06095f))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R73") (unit 1)
         )
@@ -15375,7 +14598,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 92.71 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f226edd0-c2ed-41c7-b982-0ccaaad7f5fc)
-    (property "Reference" "D2" (at 92.71 123.19 0)
+    (property "Reference" "D43" (at 92.71 123.19 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 92.71 123.19 0)
@@ -15393,9 +14616,6 @@
     (pin "4" (uuid 410c2885-08c3-4144-9fdb-77555e1be723))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D43") (unit 1)
         )
@@ -15406,7 +14626,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 64.77 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2a9ee68-10c0-41c2-b63c-23b597582bc6)
-    (property "Reference" "D2" (at 64.77 214.63 0)
+    (property "Reference" "D89" (at 64.77 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 64.77 214.63 0)
@@ -15424,9 +14644,6 @@
     (pin "4" (uuid c2aa32fa-0d21-47b8-9f10-7dffd93220bb))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D89") (unit 1)
         )
@@ -15437,7 +14654,7 @@
   (symbol (lib_id "Device:R") (at 307.34 64.77 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f41aa906-1e37-4335-9285-252965fbd439)
-    (property "Reference" "R1" (at 306.07 69.85 90)
+    (property "Reference" "R63" (at 306.07 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 306.07 59.69 90)
@@ -15453,15 +14670,6 @@
     (pin "2" (uuid 96df64a3-ec08-4b5e-af1f-8c9cd4099752))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R63") (unit 1)
         )
@@ -15472,7 +14680,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 78.74 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6164a75-41f9-4e85-add4-f7f82bedc3c5)
-    (property "Reference" "D2" (at 78.74 260.35 0)
+    (property "Reference" "D114" (at 78.74 260.35 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 78.74 260.35 0)
@@ -15490,9 +14698,6 @@
     (pin "4" (uuid d787700f-ad8e-4ca4-a02b-99ce96848c51))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D114") (unit 1)
         )
@@ -15528,7 +14733,7 @@
   (symbol (lib_id "Device:R") (at 133.35 38.1 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa885026-a27f-492a-b650-3dc02ce78e7c)
-    (property "Reference" "R1" (at 130.81 38.1 90)
+    (property "Reference" "R55" (at 130.81 38.1 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1k" (at 135.89 38.1 90)
@@ -15544,15 +14749,6 @@
     (pin "2" (uuid 35e41e67-dda0-4cf8-a13f-65323adfdae8))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R55") (unit 1)
         )
@@ -15563,7 +14759,7 @@
   (symbol (lib_id "Device:R") (at 193.04 222.25 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fc3f0208-1813-4e77-833a-505f925d2f0a)
-    (property "Reference" "R1" (at 187.96 220.98 90)
+    (property "Reference" "R85" (at 187.96 220.98 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "698R" (at 198.12 220.98 90)
@@ -15579,15 +14775,6 @@
     (pin "2" (uuid b09aad7f-5103-4e7d-8063-cdd1bad50984))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R85") (unit 1)
         )
@@ -15598,7 +14785,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 36.83 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fdd92715-724d-4223-8a39-533c081e727b)
-    (property "Reference" "D2" (at 36.83 191.77 0)
+    (property "Reference" "D75" (at 36.83 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 36.83 191.77 0)
@@ -15616,9 +14803,6 @@
     (pin "4" (uuid d7e4f04e-62be-4973-a7d0-9b10a2d08306))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D75") (unit 1)
         )
@@ -15629,7 +14813,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 106.68 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid febe6bea-d24a-4272-b8fd-0bda78141868)
-    (property "Reference" "D2" (at 106.68 214.63 0)
+    (property "Reference" "D92" (at 106.68 214.63 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 106.68 214.63 0)
@@ -15647,9 +14831,6 @@
     (pin "4" (uuid 3afa423e-540e-4153-ace3-4f2cce37ed36))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D92") (unit 1)
         )
@@ -15685,7 +14866,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 120.65 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff978918-614c-4d97-9872-817b2334c427)
-    (property "Reference" "D2" (at 120.65 146.05 0)
+    (property "Reference" "D57" (at 120.65 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 120.65 146.05 0)
@@ -15703,9 +14884,6 @@
     (pin "4" (uuid f0554f15-55e6-4a5f-aa62-701c3e1c7457))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D57") (unit 1)
         )
@@ -15716,7 +14894,7 @@
   (symbol (lib_id "Device:LED_ARGB") (at 162.56 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ffabd379-bb2b-4096-a9e4-ac4924bf40df)
-    (property "Reference" "D2" (at 162.56 54.61 0)
+    (property "Reference" "D12" (at 162.56 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "XZCMEDGCBD110W" (at 162.56 54.61 0)
@@ -15734,9 +14912,6 @@
     (pin "4" (uuid 740864e1-22ef-425c-a687-e40241d82499))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "D2") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "D12") (unit 1)
         )
@@ -15747,7 +14922,7 @@
   (symbol (lib_id "Device:R") (at 193.04 158.75 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ffea0149-1e3b-4010-9e4f-99ff8a949501)
-    (property "Reference" "R1" (at 187.96 157.48 90)
+    (property "Reference" "R78" (at 187.96 157.48 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "274R" (at 198.12 157.48 90)
@@ -15763,15 +14938,6 @@
     (pin "2" (uuid ad24beb2-e85b-499c-b68d-0046a6250716))
     (instances
       (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8"
-          (reference "R1") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/2168b384-5196-4073-b8ef-3119545e18e5"
-          (reference "R22") (unit 1)
-        )
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/f332d42e-5db4-4172-b323-74fc11c56eeb"
-          (reference "R32") (unit 1)
-        )
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/cf8aa24c-20ae-4a11-ad80-87eacacc41dd"
           (reference "R78") (unit 1)
         )

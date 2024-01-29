@@ -169,7 +169,7 @@
 
   (footprint "MountingHole:MountingHole_2.7mm_M2.5" (layer "F.Cu")
     (tstamp cae571a8-81fe-4a73-95b3-83cb3041acef)
-    (at 118.2 44.7)
+    (at 125.2 43.95)
     (descr "Mounting Hole 2.7mm, no annular, M2.5")
     (tags "mounting hole 2.7mm no annular m2.5")
     (attr exclude_from_pos_files exclude_from_bom)
