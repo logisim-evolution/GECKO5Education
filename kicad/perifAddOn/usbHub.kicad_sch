@@ -1031,6 +1031,9 @@
   (junction (at 147.32 161.29) (diameter 0) (color 0 0 0 0)
     (uuid b5d52f9a-2158-4d7a-8274-f67f17e0cd8c)
   )
+  (junction (at 243.84 63.5) (diameter 0) (color 0 0 0 0)
+    (uuid bd535da2-d871-41d8-a293-b8d8f297d117)
+  )
   (junction (at 76.2 49.53) (diameter 0) (color 0 0 0 0)
     (uuid beaadb77-fbc7-42f9-b787-9bc482dfe5bc)
   )
@@ -1284,10 +1287,6 @@
     (stroke (width 0) (type default))
     (uuid 3d9ff201-2512-4cdd-93e8-932e6aa973b1)
   )
-  (wire (pts (xy 238.76 60.96) (xy 246.38 60.96))
-    (stroke (width 0) (type default))
-    (uuid 3f20a200-8fd2-4a86-8da8-1b0141ef28b5)
-  )
   (wire (pts (xy 245.11 55.88) (xy 245.11 77.47))
     (stroke (width 0) (type default))
     (uuid 4115460d-bac6-4ba6-a517-27fa4ed49111)
@@ -1447,6 +1446,10 @@
   (wire (pts (xy 168.91 135.89) (xy 168.91 138.43))
     (stroke (width 0) (type default))
     (uuid 74442de6-aa81-4876-bd30-6ff60f91031e)
+  )
+  (wire (pts (xy 238.76 60.96) (xy 243.84 60.96))
+    (stroke (width 0) (type default))
+    (uuid 77a28ef4-54d2-4a58-97ee-5f4ead26dd9d)
   )
   (wire (pts (xy 251.46 66.04) (xy 259.08 66.04))
     (stroke (width 0) (type default))
@@ -1712,6 +1715,10 @@
     (stroke (width 0) (type default))
     (uuid e30280a4-c529-48ba-82da-07c26af0d212)
   )
+  (wire (pts (xy 243.84 60.96) (xy 243.84 63.5))
+    (stroke (width 0) (type default))
+    (uuid e956ba17-aece-446d-a01d-b98a838cfe8f)
+  )
   (wire (pts (xy 91.44 91.44) (xy 97.79 91.44))
     (stroke (width 0) (type default))
     (uuid e989823c-47d0-422f-ba86-b16bf5f3385c)
@@ -1956,9 +1963,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR027") (unit 1)
         )
@@ -2248,47 +2252,6 @@
       (project "perifAddOn"
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "C14") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:+3.3V") (at 246.38 60.96 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 2497a70f-5108-436f-9332-d49c3514d0ce)
-    (property "Reference" "#PWR091" (at 242.57 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+3.3V" (at 248.92 60.96 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "" (at 246.38 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 246.38 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 91220209-7b9f-40fb-9e77-89e99adfbe8c))
-    (instances
-      (project "gecko5education"
-        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8/1b790ed2-2ed7-44b0-8848-0151372cb9f5"
-          (reference "#PWR091") (unit 1)
-        )
-      )
-      (project "cpuAddOn"
-        (path "/9e68661c-b1e3-4cc9-aa9a-0ec357e0a727"
-          (reference "#PWR02") (unit 1)
-        )
-        (path "/9e68661c-b1e3-4cc9-aa9a-0ec357e0a727/dc9ec033-7c25-4719-8793-b075d3f8af9a"
-          (reference "#PWR026") (unit 1)
-        )
-      )
-      (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
-          (reference "#PWR029") (unit 1)
         )
       )
     )
@@ -2633,9 +2596,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR01") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR033") (unit 1)
         )
@@ -2674,9 +2634,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR015") (unit 1)
         )
@@ -2750,9 +2707,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR026") (unit 1)
         )
@@ -2995,9 +2949,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR035") (unit 1)
         )
@@ -3240,9 +3191,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR025") (unit 1)
         )
@@ -3607,9 +3555,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR016") (unit 1)
         )
@@ -4152,9 +4097,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR024") (unit 1)
         )
@@ -4223,9 +4165,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR012") (unit 1)
         )
@@ -4300,9 +4239,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c"
-          (reference "#PWR02") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
           (reference "#PWR017") (unit 1)
         )

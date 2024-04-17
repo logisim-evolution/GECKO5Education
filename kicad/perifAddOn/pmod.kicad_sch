@@ -993,15 +993,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
-          (reference "#PWR019") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/5f087467-c9fb-41e6-aee4-83e925a7eea9"
-          (reference "#PWR037") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/20a0a67d-1441-4434-b0eb-4284ca9daa28"
-          (reference "#PWR047") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/b36c1e6a-5d35-446c-9090-d0fb1e699a6b"
           (reference "#PWR057") (unit 1)
         )
@@ -1094,15 +1085,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
-          (reference "#PWR019") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/5f087467-c9fb-41e6-aee4-83e925a7eea9"
-          (reference "#PWR037") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/20a0a67d-1441-4434-b0eb-4284ca9daa28"
-          (reference "#PWR047") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/b36c1e6a-5d35-446c-9090-d0fb1e699a6b"
           (reference "#PWR060") (unit 1)
         )
@@ -1195,15 +1177,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
-          (reference "#PWR019") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/5f087467-c9fb-41e6-aee4-83e925a7eea9"
-          (reference "#PWR037") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/20a0a67d-1441-4434-b0eb-4284ca9daa28"
-          (reference "#PWR047") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/b36c1e6a-5d35-446c-9090-d0fb1e699a6b"
           (reference "#PWR059") (unit 1)
         )
@@ -1239,9 +1212,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/5f087467-c9fb-41e6-aee4-83e925a7eea9"
-          (reference "#PWR042") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/b36c1e6a-5d35-446c-9090-d0fb1e699a6b"
           (reference "#PWR061") (unit 1)
         )
@@ -1280,15 +1250,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/864ac336-bbc9-4ed3-a54d-59ff29ebf05e"
-          (reference "#PWR019") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/5f087467-c9fb-41e6-aee4-83e925a7eea9"
-          (reference "#PWR037") (unit 1)
-        )
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/20a0a67d-1441-4434-b0eb-4284ca9daa28"
-          (reference "#PWR047") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/b36c1e6a-5d35-446c-9090-d0fb1e699a6b"
           (reference "#PWR056") (unit 1)
         )
@@ -1324,9 +1285,6 @@
         )
       )
       (project "perifAddOn"
-        (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/5f087467-c9fb-41e6-aee4-83e925a7eea9"
-          (reference "#PWR042") (unit 1)
-        )
         (path "/c4a49e8d-4344-49ad-8b55-370a9310fd4c/b36c1e6a-5d35-446c-9090-d0fb1e699a6b"
           (reference "#PWR058") (unit 1)
         )
