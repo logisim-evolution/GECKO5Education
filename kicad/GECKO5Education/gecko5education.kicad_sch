@@ -32,6 +32,23 @@
     )
   )
 
+  (sheet (at 185.42 118.11) (size 15.24 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 157b56ee-8124-47d2-8b6d-4e599d3278fc)
+    (property "Sheetname" "cardReader" (at 185.42 117.3984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "cardReader.kicad_sch" (at 185.42 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "gecko5education"
+        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8" (page "11"))
+      )
+    )
+  )
+
   (sheet (at 160.02 133.35) (size 19.05 7.62) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -72,6 +89,23 @@
     )
   )
 
+  (sheet (at 160.02 118.11) (size 19.05 8.89) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 95637168-f029-4722-920a-7a063813f1e6)
+    (property "Sheetname" "ESP32" (at 160.02 117.3984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "esp32.kicad_sch" (at 160.02 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "gecko5education"
+        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8" (page "10"))
+      )
+    )
+  )
+
   (sheet (at 222.25 146.05) (size 12.7 7.62) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -88,6 +122,23 @@
     (instances
       (project "gecko5education"
         (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 160.02 146.05) (size 20.32 7.62) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid d3534867-9083-4be4-b9a7-f575a3bdbfca)
+    (property "Sheetname" "usbHub" (at 160.02 145.3384 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "usbHub.kicad_sch" (at 160.02 154.2546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "gecko5education"
+        (path "/47d58937-9286-45a8-b88f-d3fcc6f916c8" (page "9"))
       )
     )
   )
