@@ -194,288 +194,6 @@
         )
       )
     )
-    (symbol "Device:LED_ARGB" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
-      (property "Reference" "D" (at 0 9.398 0)
-        (effects (font (size 1.27 1.27)))
-      )
-      (property "Value" "LED_ARGB" (at 0 -8.89 0)
-        (effects (font (size 1.27 1.27)))
-      )
-      (property "Footprint" "" (at 0 -1.27 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "Datasheet" "~" (at 0 -1.27 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_keywords" "LED RGB diode" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_description" "RGB LED, anode/red/green/blue" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*" (at 0 0 0)
-        (effects (font (size 1.27 1.27)) hide)
-      )
-      (symbol "LED_ARGB_0_0"
-        (text "B" (at -1.905 -6.35 0)
-          (effects (font (size 1.27 1.27)))
-        )
-        (text "G" (at -1.905 -1.27 0)
-          (effects (font (size 1.27 1.27)))
-        )
-        (text "R" (at -1.905 3.81 0)
-          (effects (font (size 1.27 1.27)))
-        )
-      )
-      (symbol "LED_ARGB_0_1"
-        (polyline
-          (pts
-            (xy -1.27 -5.08)
-            (xy -2.54 -5.08)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 -5.08)
-            (xy 1.27 -5.08)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 -3.81)
-            (xy -1.27 -6.35)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 0)
-            (xy -2.54 0)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 1.27)
-            (xy -1.27 -1.27)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 5.08)
-            (xy -2.54 5.08)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 5.08)
-            (xy 1.27 5.08)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 6.35)
-            (xy -1.27 3.81)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 0)
-            (xy -1.27 0)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 0)
-            (xy 2.54 0)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 1.27)
-            (xy -1.27 -1.27)
-            (xy -1.27 -1.27)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.27 6.35)
-            (xy -1.27 3.81)
-            (xy -1.27 3.81)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 -5.08)
-            (xy 2.032 -5.08)
-            (xy 2.032 5.08)
-            (xy 1.27 5.08)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 -3.81)
-            (xy 1.27 -6.35)
-            (xy -1.27 -5.08)
-            (xy 1.27 -3.81)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 1.27)
-            (xy 1.27 -1.27)
-            (xy -1.27 0)
-            (xy 1.27 1.27)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 1.27 6.35)
-            (xy 1.27 3.81)
-            (xy -1.27 5.08)
-            (xy 1.27 6.35)
-          )
-          (stroke (width 0.254) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.016 -3.81)
-            (xy 0.508 -2.286)
-            (xy -0.254 -2.286)
-            (xy 0.508 -2.286)
-            (xy 0.508 -3.048)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.016 1.27)
-            (xy 0.508 2.794)
-            (xy -0.254 2.794)
-            (xy 0.508 2.794)
-            (xy 0.508 2.032)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy -1.016 6.35)
-            (xy 0.508 7.874)
-            (xy -0.254 7.874)
-            (xy 0.508 7.874)
-            (xy 0.508 7.112)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 -3.81)
-            (xy 1.524 -2.286)
-            (xy 0.762 -2.286)
-            (xy 1.524 -2.286)
-            (xy 1.524 -3.048)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 1.27)
-            (xy 1.524 2.794)
-            (xy 0.762 2.794)
-            (xy 1.524 2.794)
-            (xy 1.524 2.032)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 0 6.35)
-            (xy 1.524 7.874)
-            (xy 0.762 7.874)
-            (xy 1.524 7.874)
-            (xy 1.524 7.112)
-          )
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (rectangle (start 1.27 -1.27) (end 1.27 1.27)
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (rectangle (start 1.27 1.27) (end 1.27 1.27)
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (rectangle (start 1.27 3.81) (end 1.27 6.35)
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (rectangle (start 1.27 6.35) (end 1.27 6.35)
-          (stroke (width 0) (type default))
-          (fill (type none))
-        )
-        (circle (center 2.032 0) (radius 0.254)
-          (stroke (width 0) (type default))
-          (fill (type outline))
-        )
-        (rectangle (start 2.794 8.382) (end -2.794 -7.62)
-          (stroke (width 0.254) (type default))
-          (fill (type background))
-        )
-      )
-      (symbol "LED_ARGB_1_1"
-        (pin passive line (at 5.08 0 180) (length 2.54)
-          (name "A" (effects (font (size 1.27 1.27))))
-          (number "1" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at -5.08 5.08 0) (length 2.54)
-          (name "RK" (effects (font (size 1.27 1.27))))
-          (number "2" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at -5.08 0 0) (length 2.54)
-          (name "GK" (effects (font (size 1.27 1.27))))
-          (number "3" (effects (font (size 1.27 1.27))))
-        )
-        (pin passive line (at -5.08 -5.08 0) (length 2.54)
-          (name "BK" (effects (font (size 1.27 1.27))))
-          (number "4" (effects (font (size 1.27 1.27))))
-        )
-      )
-    )
     (symbol "Device:R" (pin_numbers hide) (pin_names (offset 0)) (in_bom yes) (on_board yes)
       (property "Reference" "R" (at 2.032 0 90)
         (effects (font (size 1.27 1.27)))
@@ -2196,6 +1914,279 @@
         (pin passive line (at 2.54 5.08 270) (length 2.54)
           (name "C" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
+    (symbol "gecko5education:EAST1616RGBB2" (in_bom yes) (on_board yes)
+      (property "Reference" "D" (at 0 0 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Value" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (property "Footprint" "gecko4education:EAST1616RGBB2_EVE" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "" (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "EAST1616RGBB2_0_0"
+        (text "B" (at -1.905 -6.35 0)
+          (effects (font (size 1.27 1.27)))
+        )
+        (text "G" (at -1.905 -1.27 0)
+          (effects (font (size 1.27 1.27)))
+        )
+        (text "R" (at -1.905 3.81 0)
+          (effects (font (size 1.27 1.27)))
+        )
+      )
+      (symbol "EAST1616RGBB2_0_1"
+        (polyline
+          (pts
+            (xy -1.27 -5.08)
+            (xy -2.54 -5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 -5.08)
+            (xy 1.27 -5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 -3.81)
+            (xy -1.27 -6.35)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 0)
+            (xy -2.54 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 1.27)
+            (xy -1.27 -1.27)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 5.08)
+            (xy -2.54 5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 5.08)
+            (xy 1.27 5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 6.35)
+            (xy -1.27 3.81)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 0)
+            (xy -1.27 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 0)
+            (xy 2.54 0)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 1.27)
+            (xy -1.27 -1.27)
+            (xy -1.27 -1.27)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.27 6.35)
+            (xy -1.27 3.81)
+            (xy -1.27 3.81)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 -5.08)
+            (xy 2.032 -5.08)
+            (xy 2.032 5.08)
+            (xy 1.27 5.08)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 -3.81)
+            (xy 1.27 -6.35)
+            (xy -1.27 -5.08)
+            (xy 1.27 -3.81)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 1.27)
+            (xy 1.27 -1.27)
+            (xy -1.27 0)
+            (xy 1.27 1.27)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.27 6.35)
+            (xy 1.27 3.81)
+            (xy -1.27 5.08)
+            (xy 1.27 6.35)
+          )
+          (stroke (width 0.254) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.016 -3.81)
+            (xy 0.508 -2.286)
+            (xy -0.254 -2.286)
+            (xy 0.508 -2.286)
+            (xy 0.508 -3.048)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.016 1.27)
+            (xy 0.508 2.794)
+            (xy -0.254 2.794)
+            (xy 0.508 2.794)
+            (xy 0.508 2.032)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.016 6.35)
+            (xy 0.508 7.874)
+            (xy -0.254 7.874)
+            (xy 0.508 7.874)
+            (xy 0.508 7.112)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -3.81)
+            (xy 1.524 -2.286)
+            (xy 0.762 -2.286)
+            (xy 1.524 -2.286)
+            (xy 1.524 -3.048)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 1.27)
+            (xy 1.524 2.794)
+            (xy 0.762 2.794)
+            (xy 1.524 2.794)
+            (xy 1.524 2.032)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 6.35)
+            (xy 1.524 7.874)
+            (xy 0.762 7.874)
+            (xy 1.524 7.874)
+            (xy 1.524 7.112)
+          )
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (rectangle (start 1.27 -1.27) (end 1.27 1.27)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (rectangle (start 1.27 1.27) (end 1.27 1.27)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (rectangle (start 1.27 3.81) (end 1.27 6.35)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (rectangle (start 1.27 6.35) (end 1.27 6.35)
+          (stroke (width 0) (type default))
+          (fill (type none))
+        )
+        (circle (center 2.032 0) (radius 0.254)
+          (stroke (width 0) (type default))
+          (fill (type outline))
+        )
+        (rectangle (start 2.794 8.382) (end -2.794 -7.62)
+          (stroke (width 0.254) (type default))
+          (fill (type background))
+        )
+      )
+      (symbol "EAST1616RGBB2_1_1"
+        (pin passive line (at -5.08 5.08 0) (length 2.54)
+          (name "RK" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -5.08 0 0) (length 2.54)
+          (name "GK" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -5.08 -5.08 0) (length 2.54)
+          (name "BK" (effects (font (size 1.27 1.27))))
+          (number "3" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 5.08 0 180) (length 2.54)
+          (name "A" (effects (font (size 1.27 1.27))))
+          (number "4" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -9186,7 +9177,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 034740a6-87aa-4387-889c-50f05aeddd03)
     (property "Reference" "D83" (at 148.59 191.77 0)
@@ -9265,7 +9256,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0484c8db-f37c-49b1-85ee-21b80b951c31)
     (property "Reference" "D24" (at 162.56 77.47 0)
@@ -9319,7 +9310,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04e8ec7b-ea78-493a-95cb-233e3cf496cf)
     (property "Reference" "D64" (at 50.8 168.91 0)
@@ -9399,7 +9390,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 08566d42-4f91-4ca8-8e79-e5f033c198af)
     (property "Reference" "D6" (at 78.74 54.61 0)
@@ -9453,7 +9444,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 09077ba0-3750-4a32-9eb9-f61691207e0b)
     (property "Reference" "D38" (at 22.86 123.19 0)
@@ -9481,7 +9472,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a313556-431f-4b62-af2d-0e43684cce77)
     (property "Reference" "D11" (at 148.59 54.61 0)
@@ -9509,7 +9500,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0acd22f9-ab71-428d-ae3a-6351711bb6f4)
     (property "Reference" "D68" (at 106.68 168.91 0)
@@ -9537,7 +9528,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0af1b371-7e43-4d94-8106-5052024aaf86)
     (property "Reference" "D31" (at 92.71 100.33 0)
@@ -9615,7 +9606,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0dabe3ba-91d7-4b05-a550-b45ff7b5daa5)
     (property "Reference" "D81" (at 120.65 191.77 0)
@@ -9643,7 +9634,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0ea5b7bc-6261-4c0a-9fd9-e519459969d9)
     (property "Reference" "D16" (at 50.8 77.47 0)
@@ -9849,7 +9840,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19d4e542-9754-4297-b44c-bdd83f1c33fd)
     (property "Reference" "D103" (at 92.71 237.49 0)
@@ -9877,7 +9868,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1e28c89c-18f5-4d66-8017-fc31714df586)
     (property "Reference" "D17" (at 64.77 77.47 0)
@@ -9905,7 +9896,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 20bc9493-9d67-4f94-928c-64ac3a14c78e)
     (property "Reference" "D34" (at 134.62 100.33 0)
@@ -9933,7 +9924,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 215dfce7-1139-4ac2-8e62-8e71066c012d)
     (property "Reference" "D107" (at 148.59 237.49 0)
@@ -9961,7 +9952,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 23843997-2bb3-4e0b-9420-a50477c61947)
     (property "Reference" "D119" (at 148.59 260.35 0)
@@ -10016,7 +10007,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 24535248-dae5-488e-be48-32ae9bb96abe)
     (property "Reference" "D80" (at 106.68 191.77 0)
@@ -10070,7 +10061,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 25299f86-0687-4f6f-adcf-ed6babb47214)
     (property "Reference" "D70" (at 134.62 168.91 0)
@@ -10124,7 +10115,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 29f31fb1-d8d9-4b4d-8efc-d0786a0e5703)
     (property "Reference" "D61" (at 176.53 146.05 0)
@@ -10152,7 +10143,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2bf3aaf2-5cef-4a33-b3e7-6bf8ffbffade)
     (property "Reference" "D51" (at 36.83 146.05 0)
@@ -10180,7 +10171,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c827b52-ad39-4eb0-a6d3-b4381e1e58a5)
     (property "Reference" "D108" (at 162.56 237.49 0)
@@ -10208,7 +10199,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d10e5b2-bd6e-4eb4-8ab6-f4b026e520ac)
     (property "Reference" "D86" (at 22.86 214.63 0)
@@ -10263,7 +10254,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e4bf5cb-cf09-4903-8deb-0aefdda9699d)
     (property "Reference" "D46" (at 134.62 123.19 0)
@@ -10291,7 +10282,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f40f8ae-f124-4618-8f37-606462c9cdd9)
     (property "Reference" "D42" (at 78.74 123.19 0)
@@ -10344,7 +10335,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 311798d8-c2dc-4764-a3d8-45262dd7b3bc)
     (property "Reference" "D102" (at 78.74 237.49 0)
@@ -10372,7 +10363,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32b555f9-11d9-47a2-9a51-4e60df88bf23)
     (property "Reference" "D93" (at 120.65 214.63 0)
@@ -10400,7 +10391,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3358b4e7-6e7a-4632-ab3c-fb24f77fe1c9)
     (property "Reference" "D66" (at 78.74 168.91 0)
@@ -10455,7 +10446,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3578444d-21cc-45bf-875b-e5fc2436020c)
     (property "Reference" "D91" (at 92.71 214.63 0)
@@ -10483,7 +10474,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3675399a-c39a-42f5-85db-b3e51bcc29a9)
     (property "Reference" "D28" (at 50.8 100.33 0)
@@ -10537,7 +10528,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 37b08869-7dc7-4890-acc4-166634cb19ec)
     (property "Reference" "D90" (at 78.74 214.63 0)
@@ -10565,7 +10556,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3907f76d-3176-4021-8a74-4121705fd89a)
     (property "Reference" "D36" (at 162.56 100.33 0)
@@ -10593,7 +10584,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 397e86b5-20b1-427a-b467-458c3c92edb2)
     (property "Reference" "D2" (at 22.86 54.61 0)
@@ -10621,7 +10612,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ea36415-c1f8-4a50-9cb3-3fdab6fde95b)
     (property "Reference" "D26" (at 22.86 100.33 0)
@@ -10728,7 +10719,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 495ca845-b7df-4a16-a518-6cd4bd0c07f6)
     (property "Reference" "D88" (at 50.8 214.63 0)
@@ -10756,7 +10747,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49a61c2d-dfae-4b86-9f8d-e6e2057c861d)
     (property "Reference" "D10" (at 134.62 54.61 0)
@@ -10784,7 +10775,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4b8e27c0-7c86-47f3-8f4c-5e6d2b1cd340)
     (property "Reference" "D94" (at 134.62 214.63 0)
@@ -10812,7 +10803,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4c8adc6f-f103-47c8-b3a9-fb3ee428cf21)
     (property "Reference" "D87" (at 36.83 214.63 0)
@@ -10840,7 +10831,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4d3032b1-788c-4d4e-bb09-5c86fbdc1777)
     (property "Reference" "D78" (at 78.74 191.77 0)
@@ -10971,7 +10962,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f2b4296-682f-40d9-ae4a-b5e073e459b3)
     (property "Reference" "D72" (at 162.56 168.91 0)
@@ -10999,7 +10990,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f655644-8a18-4a54-aefd-37c34922631c)
     (property "Reference" "D97" (at 176.53 214.63 0)
@@ -11027,7 +11018,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4fc32700-0803-4018-88d9-5098e7a91a9f)
     (property "Reference" "D56" (at 106.68 146.05 0)
@@ -11055,7 +11046,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 51c1e4a0-b40f-4d2d-927f-2effc2d74e40)
     (property "Reference" "D85" (at 176.53 191.77 0)
@@ -11083,7 +11074,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5420ab74-c845-416c-b3d0-751038ebbb65)
     (property "Reference" "D32" (at 106.68 100.33 0)
@@ -11111,7 +11102,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5462f6bd-0cb0-431e-8164-94cf8b5dfb46)
     (property "Reference" "D23" (at 148.59 77.47 0)
@@ -11165,7 +11156,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 59b221dc-0a05-4984-be1d-279ebcf79e72)
     (property "Reference" "D95" (at 148.59 214.63 0)
@@ -11193,7 +11184,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a41fedc-4113-4b5c-89c6-a75864403fd6)
     (property "Reference" "D52" (at 50.8 146.05 0)
@@ -11221,7 +11212,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a890216-ce5d-4e1d-bfcb-95ac7e7a9820)
     (property "Reference" "D58" (at 134.62 146.05 0)
@@ -11249,7 +11240,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5ac9b4cb-b226-4426-977b-673879ddb433)
     (property "Reference" "D41" (at 64.77 123.19 0)
@@ -11303,7 +11294,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 602f81fa-f6fb-4e19-9b58-ad6a63d3137c)
     (property "Reference" "D69" (at 120.65 168.91 0)
@@ -11357,7 +11348,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63097d50-9ffa-4e2c-bc4e-bc3fd1cd06a8)
     (property "Reference" "D29" (at 64.77 100.33 0)
@@ -11385,7 +11376,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 643de1b4-1ef7-4744-ab4e-fd7abcc7a7b7)
     (property "Reference" "D120" (at 162.56 260.35 0)
@@ -11492,7 +11483,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6627c041-21d4-4439-af8d-038a151e2167)
     (property "Reference" "D48" (at 162.56 123.19 0)
@@ -11520,7 +11511,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 669006d4-d6da-4895-b850-43537f2f1712)
     (property "Reference" "D9" (at 120.65 54.61 0)
@@ -11548,7 +11539,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66990a7a-adcc-4570-91db-40c4b129c004)
     (property "Reference" "D55" (at 92.71 146.05 0)
@@ -11602,7 +11593,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67ab4b22-bd48-4cad-928b-f587b4c04d33)
     (property "Reference" "D60" (at 162.56 146.05 0)
@@ -11630,7 +11621,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 687559ee-9650-4c68-bc1e-280a8094f0be)
     (property "Reference" "D62" (at 22.86 168.91 0)
@@ -11658,7 +11649,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 68a9e9b2-a54c-4b9e-9adf-a46e70449585)
     (property "Reference" "D82" (at 134.62 191.77 0)
@@ -11686,7 +11677,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6addeff7-dd9c-4c10-a705-344a30e1d758)
     (property "Reference" "D77" (at 64.77 191.77 0)
@@ -11714,7 +11705,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6f283f77-ce3e-498d-8cc5-3633aac60a2b)
     (property "Reference" "D50" (at 22.86 146.05 0)
@@ -11742,7 +11733,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6febe04a-ef53-487d-846e-e7f1766d9761)
     (property "Reference" "D14" (at 22.86 77.47 0)
@@ -11796,7 +11787,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71adce86-06c9-400f-9731-d7d468fb8321)
     (property "Reference" "D4" (at 50.8 54.61 0)
@@ -11824,7 +11815,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 71c5421b-d5f1-4a62-aa82-143ded29f9de)
     (property "Reference" "D118" (at 134.62 260.35 0)
@@ -11852,7 +11843,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 722db186-3291-41ee-88cc-f465b4a0bcc1)
     (property "Reference" "D47" (at 148.59 123.19 0)
@@ -11960,7 +11951,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 759d46ed-31a7-479f-bb59-e84a937f491d)
     (property "Reference" "D105" (at 120.65 237.49 0)
@@ -12014,7 +12005,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 76f9fda0-bf76-402e-8dff-c5f64f5a67d9)
     (property "Reference" "D39" (at 36.83 123.19 0)
@@ -12042,7 +12033,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 775588e2-5796-4866-b161-6a80ad5faa2e)
     (property "Reference" "D45" (at 120.65 123.19 0)
@@ -12070,7 +12061,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 78c20dda-3122-4e4e-98a9-30b3a6f2545d)
     (property "Reference" "D63" (at 36.83 168.91 0)
@@ -12123,7 +12114,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c328a9b-5651-422f-aeb2-06d6a043ee31)
     (property "Reference" "D106" (at 134.62 237.49 0)
@@ -12151,7 +12142,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c53c9e2-7c2e-4823-9e86-1acea6c0b65d)
     (property "Reference" "D20" (at 106.68 77.47 0)
@@ -12179,7 +12170,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d8e4a76-f67f-4972-bd1e-383dbf92217f)
     (property "Reference" "D110" (at 22.86 260.35 0)
@@ -12207,7 +12198,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7d9bea14-daf9-4828-8140-03641a9eadb6)
     (property "Reference" "D30" (at 78.74 100.33 0)
@@ -12235,7 +12226,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7eb0b418-5172-43e2-a415-70d57c129180)
     (property "Reference" "D65" (at 64.77 168.91 0)
@@ -12263,7 +12254,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ee40850-d161-43be-93d9-cca215b4f40b)
     (property "Reference" "D100" (at 50.8 237.49 0)
@@ -12291,7 +12282,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7fc499dd-4d6b-4134-a6df-61c7a74f39e6)
     (property "Reference" "D15" (at 36.83 77.47 0)
@@ -12345,7 +12336,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8217eb2d-c5f7-48f2-aacd-7fb1282f8b57)
     (property "Reference" "D18" (at 78.74 77.47 0)
@@ -12373,7 +12364,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8463bfd5-09a7-4b07-804a-5420f55e7cc7)
     (property "Reference" "D74" (at 22.86 191.77 0)
@@ -12401,7 +12392,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 84dd33c3-3760-4de2-b2fe-d08e5aeec9ed)
     (property "Reference" "D117" (at 120.65 260.35 0)
@@ -12860,7 +12851,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87445122-aaf5-4ab9-887b-94cfe0b55caa)
     (property "Reference" "D113" (at 64.77 260.35 0)
@@ -12888,7 +12879,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87dc950f-994e-43d2-9046-b7f7470c0705)
     (property "Reference" "D5" (at 64.77 54.61 0)
@@ -12916,7 +12907,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8985db51-3453-4494-b08f-9aa225256f31)
     (property "Reference" "D112" (at 50.8 260.35 0)
@@ -12995,7 +12986,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 134.62 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 134.62 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8cd1b637-0527-4ad4-bc66-38f3afeccfe6)
     (property "Reference" "D22" (at 134.62 77.47 0)
@@ -13023,7 +13014,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d0b5e67-913c-4379-9b5c-f5c828b7ccf6)
     (property "Reference" "D13" (at 176.53 54.61 0)
@@ -13128,7 +13119,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9495dabd-b37c-4fd1-82e5-7a5f5177d71c)
     (property "Reference" "D101" (at 64.77 237.49 0)
@@ -13156,7 +13147,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 956f7ace-31a3-4a37-9e86-8835777c746a)
     (property "Reference" "D84" (at 162.56 191.77 0)
@@ -13184,7 +13175,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 22.86 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 22.86 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 96019beb-d092-459d-8d28-c6fee9d1466b)
     (property "Reference" "D98" (at 22.86 237.49 0)
@@ -13212,7 +13203,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98d989cb-5683-4c59-8504-5198f283ef5f)
     (property "Reference" "D25" (at 176.53 77.47 0)
@@ -13240,7 +13231,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98e54d10-cb28-48fc-946f-e66f6b7a6328)
     (property "Reference" "D104" (at 106.68 237.49 0)
@@ -13319,7 +13310,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a01dce2a-3897-494e-8171-03c565af90a3)
     (property "Reference" "D33" (at 120.65 100.33 0)
@@ -13347,7 +13338,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0420eac-4b64-47ed-904f-b8913a1afee4)
     (property "Reference" "D115" (at 92.71 260.35 0)
@@ -13401,7 +13392,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4184f1c-8f93-42e6-9313-eda5e0292e58)
     (property "Reference" "D111" (at 36.83 260.35 0)
@@ -13560,7 +13551,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ad91bb2c-5795-43a6-958d-2b0a020cfd94)
     (property "Reference" "D27" (at 36.83 100.33 0)
@@ -13694,7 +13685,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b41afcde-cff0-47dd-a2b2-7e6e69d3fa27)
     (property "Reference" "D96" (at 162.56 214.63 0)
@@ -13774,7 +13765,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b740a161-a21c-460b-869a-662baec66b7f)
     (property "Reference" "D8" (at 106.68 54.61 0)
@@ -13802,7 +13793,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b98bc0a4-9297-4a7b-b341-502020cc0c1b)
     (property "Reference" "D53" (at 64.77 146.05 0)
@@ -13830,7 +13821,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9d2debf-ecb6-4a22-95a3-afb4e0399afb)
     (property "Reference" "D71" (at 148.59 168.91 0)
@@ -13858,7 +13849,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb29a253-f0bb-48f6-acde-15645c2179ca)
     (property "Reference" "D35" (at 148.59 100.33 0)
@@ -13886,7 +13877,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb72685c-1287-4854-964f-6b107c3b79de)
     (property "Reference" "D44" (at 106.68 123.19 0)
@@ -13914,7 +13905,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bea71182-8c22-49ed-87a5-cdd7a8f03899)
     (property "Reference" "D109" (at 176.53 237.49 0)
@@ -13942,7 +13933,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c0c804f7-2dcf-436d-af5e-816781e6a304)
     (property "Reference" "D3" (at 36.83 54.61 0)
@@ -13970,7 +13961,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4d1abc2-be84-4d55-9733-e2ba66ae49a1)
     (property "Reference" "D49" (at 176.53 123.19 0)
@@ -13998,7 +13989,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 148.59 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 148.59 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c566e942-baae-46ae-8065-fc198c7372f5)
     (property "Reference" "D59" (at 148.59 146.05 0)
@@ -14051,7 +14042,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c9569506-1a88-49b8-870d-d123201b7096)
     (property "Reference" "D21" (at 120.65 77.47 0)
@@ -14079,7 +14070,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ca4ddef1-ecf2-4791-af97-5dbf5b07a14b)
     (property "Reference" "D7" (at 92.71 54.61 0)
@@ -14132,7 +14123,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d39fb463-e1ff-4197-966f-3b29d3c2fd8e)
     (property "Reference" "D54" (at 78.74 146.05 0)
@@ -14160,7 +14151,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d3ef3855-df0e-4cd7-a8e6-dbef32d1f04b)
     (property "Reference" "D79" (at 92.71 191.77 0)
@@ -14188,7 +14179,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 247.65 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 247.65 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d78728ef-59f4-4f08-8fa7-7265b4541a04)
     (property "Reference" "D99" (at 36.83 237.49 0)
@@ -14216,7 +14207,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8a29248-bc58-41a4-b88c-fae4d6175c0f)
     (property "Reference" "D73" (at 176.53 168.91 0)
@@ -14295,7 +14286,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd1c02be-1a31-4b0b-b836-b976082e2391)
     (property "Reference" "D116" (at 106.68 260.35 0)
@@ -14323,7 +14314,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 179.07 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df843e10-b740-4853-aace-b2c3ea13a6c5)
     (property "Reference" "D67" (at 92.71 168.91 0)
@@ -14351,7 +14342,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dfdb2736-2141-434b-8ba5-e8140ac4421d)
     (property "Reference" "D121" (at 176.53 260.35 0)
@@ -14379,7 +14370,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 87.63 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e0790292-5e2c-40e3-86bb-4fa708ef361c)
     (property "Reference" "D19" (at 92.71 77.47 0)
@@ -14433,7 +14424,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 176.53 110.49 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 176.53 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e51249d7-356d-4dcc-aac8-d352ce41fa59)
     (property "Reference" "D37" (at 176.53 100.33 0)
@@ -14461,7 +14452,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e611ae4c-cdcb-4fcc-b9cb-dcded0da82fb)
     (property "Reference" "D76" (at 50.8 191.77 0)
@@ -14489,7 +14480,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 50.8 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 50.8 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e741d842-c6f0-430e-a052-876d2dc1bcef)
     (property "Reference" "D40" (at 50.8 123.19 0)
@@ -14595,7 +14586,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 92.71 133.35 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 92.71 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f226edd0-c2ed-41c7-b982-0ccaaad7f5fc)
     (property "Reference" "D43" (at 92.71 123.19 0)
@@ -14623,7 +14614,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 64.77 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 64.77 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2a9ee68-10c0-41c2-b63c-23b597582bc6)
     (property "Reference" "D89" (at 64.77 214.63 0)
@@ -14677,7 +14668,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 78.74 270.51 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 78.74 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6164a75-41f9-4e85-add4-f7f82bedc3c5)
     (property "Reference" "D114" (at 78.74 260.35 0)
@@ -14782,7 +14773,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 36.83 201.93 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 36.83 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fdd92715-724d-4223-8a39-533c081e727b)
     (property "Reference" "D75" (at 36.83 191.77 0)
@@ -14810,7 +14801,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 106.68 224.79 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 106.68 224.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid febe6bea-d24a-4272-b8fd-0bda78141868)
     (property "Reference" "D92" (at 106.68 214.63 0)
@@ -14863,7 +14854,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 120.65 156.21 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 120.65 156.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ff978918-614c-4d97-9872-817b2334c427)
     (property "Reference" "D57" (at 120.65 146.05 0)
@@ -14891,7 +14882,7 @@
     )
   )
 
-  (symbol (lib_id "Device:LED_ARGB") (at 162.56 64.77 0) (unit 1)
+  (symbol (lib_id "gecko5education:EAST1616RGBB2") (at 162.56 64.77 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ffabd379-bb2b-4096-a9e4-ac4924bf40df)
     (property "Reference" "D12" (at 162.56 54.61 0)
