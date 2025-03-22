@@ -80,4 +80,9 @@
   (pad "2" smd rect (at -0.8 -0.45) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 138cdf5c-d165-4fdc-a784-9321c7114a72))
   (pad "3" smd rect (at 0.8 -0.45) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6aa3b493-58e9-4a8b-8c4d-e74dfff2d77c))
   (pad "4" smd rect (at 0.8 0.45) (size 0.8 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp acedbd77-0da4-4519-ab71-b250719062f6))
+  (model "${KIPRJMOD}/3DModels/XZCMEDGCBD110W--3DModel-STEP-56544.STEP"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
