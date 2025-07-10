@@ -1,7 +1,7 @@
-# GECKO5Education
+# GECKO5Modular
 
-The Gecko5Education is a new take on an open hardware educational platform. The ideas
-of the Gecko5Education are based on the open hardware [ULX3S](https://github.com/emard/ulx3s) board,
+The Gecko5Modular is a new take on an open hardware educational platform. The ideas
+of the Gecko5Modular are based on the open hardware [ULX3S](https://github.com/emard/ulx3s) board,
 the [Gecko4Education](https://gecko-wiki.ti.bfh.ch/) line of boards, and the recently developed 
 [Leguan development board](https://leguan.ti.bfh.ch/).
 
