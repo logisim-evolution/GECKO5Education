@@ -15,6 +15,9 @@ for education, research and general purpose. It's open source and
 open hardware. It continues my line of educational boards used in the
 past for teaching and research projects.
 
+# Developer's guide
+Information on how to use the board can be found [here](https://gecko5education.ti.bfh.ch)
+
 # Production
 The prototypes for these boards were produced and mounted by [Eurocircuits](https://www.eurocircuits.com/).
 
