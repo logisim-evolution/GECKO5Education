@@ -7,13 +7,15 @@ the [Gecko4Education](https://gecko-wiki.ti.bfh.ch/) line of boards, and the rec
 
 3D preview:
 
-![TOP](/images/gecko5Education_top.jpg)
-![BOTTOM](/images/gecko5Education_bot.jpg)
+![TOP](/images/gecko5Modular.png)
 
 This is a small (60.6x100 mm) standalone FPGA board 
 for education, research and general purpose. It's open source and 
 open hardware. It continues my line of educational boards used in the
 past for teaching and research projects.
+
+# Developer's guide
+Detailed information how to use the board can be found [here](https://gecko5education.ti.bfh.ch).
 
 # Production
 The prototypes for these boards were produced and mounted by [Eurocircuits](https://www.eurocircuits.com/).
