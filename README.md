@@ -7,8 +7,8 @@ the [Gecko4Education](https://gecko-wiki.ti.bfh.ch/) line of boards, and the rec
 
 3D preview:
 
-![TOP](/images/gecko5Education_top.png)
-![BOTTOM](/images/gecko5Education_bot.png)
+![TOP](/images/gecko5education_top.png)
+![BOTTOM](/images/gecko5education_bot.png)
 
 This is a small (60.6x100 mm) standalone FPGA board 
 for education, research and general purpose. It's open source and 
